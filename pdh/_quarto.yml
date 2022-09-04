@@ -2,12 +2,14 @@ project:
   type: book
 
 book:
-  title: "pdh"
-  author: "Jane Doe"
+  title: "Policía para el Desarrollo Humano (PDH)"
+  author: "Andrés Pérez Coronado"
   date: "9/3/2022"
   chapters:
     - index.qmd
     - intro.qmd
+    - cap1.qmd
+    - cap2.qmd
     - summary.qmd
     - references.qmd
 

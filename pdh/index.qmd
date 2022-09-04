@@ -1,9 +1,37 @@
-# Preface {.unnumbered}
+# Prefacio {.unnumbered}
 
-This is a Quarto book.
+Esta es la versión online del libro de Policía para el Desarrollo Humano (PDH), es un modelo que aterriza la seguridad humana a los cuerpos de policía, alineado con la cuarta revolución industrial. Este modelo de policía se concibe como una filosofía y estrategia para la construcción activa de la seguridad entre la ciudadanía y el Estado, con enfoque en la solución de problemas y necesidades en microterritorios multicrimen, analizados a través de la ciencia de los datos e inteligencia artificial, para prevenir las crisis, las causas estructurales de la violencia y el delito; y así, mejorar el desarrollo humano, reducir las tasas de criminalidad y mantener el Estado de Derecho.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+## Aclaraciones
 
-```{r}
-1 + 1
-```
+Esta versión del PDH se estará actualizando, presentará cambios y mejoras, como las citaciones.
+
+Cuando se hable de seguridad ciudadana, se refiere desde la perspectiva de seguridad humana, pues esta última amplia este concepto.
+
+## Dedicatoria
+
+Gabriela, hija mía la vida está llena de retos y alegrías, pero confía en lo que tu corazón te dice.
+
+A mis padres Gustavo y Cecilia, quienes me enseñaron en que el secreto estaba en lograr lo difícil, pues lo fácil ya estaba hecho.
+
+## Agradecimientos
+
+A los expertos que apoyaron la construcción del libro Javier Sagredo del PNUD, en la concepción y orientación de la idea de Policía para el Desarrollo Humano.
+
+David Cárdenas Sarmiento y Andrés Gustavo Moreno Gaitán de AMERIPOL, en la construcción de las escalas de sofisticación criminal y escalas de violencia.
+
+Johanna Alexandra Forero Barrera, Wolfan Yesid Prada Roa, Jonathan Enrique Camargo Hernández, Yuli Andrea Pacheco y Yensy Lorena Moreno Diosa, en la construcción del modelo en lógica difusa.
+
+Deiby Estefan Niño Arcila, Cesar Alberto Pardo Rey y Yenni Alejandra Cardozo Garzón, en la aplicación y ajuste del modelo de tipologías.
+
+Profesor Joaquín Luna, en la ayuda en la validación y orientación del modelo en lógica difusa Julieth Nataly Roman, para la construcción de indicadores de Policía para el Desarrollo Humano.
+
+A Jessica Faieta, Eveline Debruijn, Carolina Azevedo, Gerardo Noto, Daniel Luz, Ana María Luey, Jacqueline Estevez y el equipo del PNUD en Nueva York, por apoyarme y abrirme las puertas de esa gran institución.
+
+A los oficiales del tercer ciclo de ascenso 2015 y oficiales de planta de la Escuela de Postgrados de Policía "Miguel Antonio Lleras Pizarro" que fueron el laboratorio.
+
+Igualmente, para esta edición realizar el Doctorado en Ingeniería Matemática de la Universidad EAFIT, me ha permitido conocer grandes personas e investigadores, que desde su amistad me han ayudado a diseñar e implementar la ciencia de los datos, como Henry Laniado, Gustavo Canavire, Olga Quintero y mi apreciado Santiago Ortiz.
+
+## 
+
+**"Caminando en línea recta no puede uno llegar muy lejos" Le Petit Prince de Antoine de Saint-Exupéry"**
