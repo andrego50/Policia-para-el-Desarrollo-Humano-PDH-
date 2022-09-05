@@ -1,4 +1,4 @@
-# Modelo Policía para el Desarrollo Humano (PDH)
+# Fundamentos de la Policía para el Desarrollo Humano (PDH)
 
 La participación comunitaria es una prioridad para mejorar las condiciones de seguridad ciudadana, en Latinoamérica y el Caribe. Las políticas consideradas de mano dura han deteriorado las conexiones y confianza de la comunidad con la policía, han desencadenado más mano dura y obligando a que el control del crimen se convierta en una cesión innecesaria de libertades y derechos de los ciudadanos (--UNDP--, 2012). No obstante, no ha tenido un impacto positivo a largo plazo en la disminución del delito y la mejora del desarrollo humano. Como se ha venido explicando, la seguridad ciudadana debe permitir el desarrollo humano, mediante la prevención del delito y la violencia.
 
@@ -94,14 +94,21 @@ Con el fin de entender los problemas locales de una comunidad y atacar las causa
 
 -   Análisis teleológico: es la perspectiva que busca entender el fin, propósito o la meta de toda sociedad y la relación de los actos humanos con este fin (LONDOÑO, 2014). Así, la PDH relaciona la convivencia y sus acciones con este entendimiento integrado y con las prioridades personales y grupales.
 
-## Articulación y coordinación del Estado basado en problemáticas locales
+## Aproximaciones desde el derecho de policía
 
-La coordinación intergubernamental e interinstitucional, sea bien en un estado centralista o federalista, siempre, es compleja, y más aún cuando no se comparte la misma ideología. Por ello, se pretende hacer consensos entre las problemáticas identificadas y priorizadas, de las que dependen de las afectaciones ciudadanas, y articularlas con las políticas públicas, para atacar las causas estructurales de la violencia y de los delitos que afectan el orden público.
+Los sistemas de regulación social se privilegian sobre la reglamentación por parte de las autoridades en relación a las faltas de convivencia (MOCKUS, MURRAÍN & VILLA, 2012, p. 123) puesto que es a través de otros ciudadanos de su contexto como amigos, familiares o vecinos, quienes al ser afectados a no estar de a acuerdo con comportamientos, controlan e inciden en los de otras personas. Como se tratará más adelante, en la matriz de indicadores de la PDH, que busca ser educativo de la ciudadanía, para evitar el incumplimiento de las normas legales principalmente, pero acompañados de otros dos sistemas que proponen los autores: el sistema moral y el sistema cultural.
 
-### Identificación de problemáticas
+Desde la perspectiva del derecho de policía, los incumplimientos a estos tres sistemas se pueden convertir en motivos de policía, es decir, en algún hecho que amenace o perturben la convivencia (LLERAS, 2009), también explica que los motivos de policía comprenden tres categorías: seguridad del Estado (Estado de Derecho), seguridad de las personas y seguridad de las propiedades (seguridad ciudadana). Se podría entender que, de cierto modo, las causas estructurales de la violencia y el delito son motivos de policía, puesto, que, estas afectan la convivencia porque directamente tiene implicaciones en la credibilidad de las instituciones del Estado de Derecho y, estas, causan la violencia y el delito que motivan la actuación policial.
 
-En la gráfica siguiente, se busca identificar las problemáticas según los ámbitos internacional, nacional, regional y local, priorizando, este último, como lo principal desde la lógica glocal, las problemáticas locales afectarán los demás ámbitos, pues todo converge en los barrios, comunas o localidades.
+La PDH es preventiva de los comportamientos errados de las personas dentro de una comunidad, entonces, para evitar que se genere violencia o delitos cuando no se han atacado las causas estructurales efectivamente, y antes de usar el sistema de justicia penal, se debería fortalecer el uso de las contravenciones, la cuales, son infracciones típicas de policía y que están constituidas por la violación de una norma de carácter preventivo, encaminada a la protección y mantenimiento de la convivencia (llerAs, 2009). Esto es completamente diferente al derecho penal, que es represivo, y se aplica posterior a la comisión de un delito.
 
-**GRÁFICA**
+Las contravenciones o evolucionados a los comportamientos contrarios a la convivencia, también, buscan unas sanciones diferentes a la privación de la libertad, pues al aplicar una contravención, en el momento oportuno, se evitaría el uso de la violencia y el delito, porque aunque no ataca la causa estructural evita en comportamiento errado.
 
+Por otro lado, el ente policía debería tener una base de datos con las contravenciones que realizan los ciudadanos, para que el Estado pueda establecer que reincidencia en contravenciones existe, las contravenciones más comunes y el concurso de varias contravenciones por los mismos comportamientos, permitiendo caracterizar a los ciudadanos que están en riesgo de cometer delitos o ejercer violencia.
+
+Como se ha dicho y se reitera, el crimen cero puede ser una utopía; en estas condiciones el Ente Policía debe combinar la prevención a través de atacar las causas estructurales de la violencia y el delito, con la disuasión, el control y la investigación criminal, que también hacen parte de la PDH, pues, como dice llerAs PizArro (2009), no todas las personas están dispuestas a las normas de convivencia y el Estado debe valerse de medios materiales sin cuyo empleo seria irrisorio el poder preventivo; algunos abusan de sus libertades porque no tienen y otros porque tienen muchas.
+
+## Modelos y estrategias policiales
+
+## Prevención, disuación, control e investigación criminal
 
