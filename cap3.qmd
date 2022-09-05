@@ -1,6 +1,7 @@
 # Modelo Policía para el Desarrollo Humano (PDH)
 
 ## Concepto de Policía para el Desarrollo Humano (PDH)
+
 El modelo PDH aterriza la seguridad humana a los cuerpos de policía, alineado con la cuarta revolución industrial. Este modelo de policía se concibe como una filosofía y estrategia para la construcción activa de la seguridad entre la ciudadanía y el Estado, con enfoque en la solución de problemas y necesidades en microterritorios multicrimen, analizados a través de la ciencia de los datos e inteligencia artificial, para prevenir las crisis, las causas estructurales de la violencia y el delito; y así, mejorar el desarrollo humano, reducir las tasas de criminalidad y mantener el Estado de Derecho.
 
 ## Articulación y coordinación del Estado basado en problemáticas locales
@@ -11,7 +12,7 @@ La coordinación intergubernamental e interinstitucional, sea bien en un estado 
 
 En la gráfica siguiente, se busca identificar las problemáticas según los ámbitos internacional, nacional, regional y local, priorizando, este último, como lo principal desde la lógica glocal, las problemáticas locales afectarán los demás ámbitos, pues todo converge en los barrios, comunas o localidades.
 
-\[Interacciones espaciales\](images/interacciones_espaciales-01.png){fig-align="center"}
+![Interacciones espaciales](images/interacciones_espaciales-01.png){fig-align="center"}
 
 Interacción 1: se puede generar en varias zonas locales y regionales, su impacto es local, regional, nacional y/o internacional; es la más compleja de las problemáticas, por ejemplo, la explotación sexual de niños, niñas y adolescentes.
 
@@ -51,17 +52,17 @@ Es necesario lograr la coordinación entre cada uno de los actores comprometidos
 
 La Guía metodológica, para la elaboración, implementación y seguimiento de los Planes Integrales de Seguridad y Convivencia Ciudadana (PISCC) ver (Ministerio del Interior, Departamento Nacional de Planeación, Alta Consejería Presidencial para la Convivencia y la Seguridad Ciudadana, Policía Nacional, 2013), en Colombia, ofrece una metodología que podría ser referente, para la coordinación del Ente Policial y de esa forma atacar las casusas estructurales de la violencia y el delito. Basados en las problemáticas identificadas, la siguiente gráfica presenta seis momentos de esta metodología del PISCC:
 
-- Momento I: conocimiento del marco normativo de políticas públicas.
+-   Momento I: conocimiento del marco normativo de políticas públicas.
 
-- Momento II: elaboración del diagnóstico de la situación de seguridad y convivencia ciudadana.
+-   Momento II: elaboración del diagnóstico de la situación de seguridad y convivencia ciudadana.
 
-- Momento III: formulación estratégica del PISCC.
+-   Momento III: formulación estratégica del PISCC.
 
-- Momento IV: planeación financiera y operativa.
+-   Momento IV: planeación financiera y operativa.
 
-- Momento V: implementación y seguimiento del PISCC.
+-   Momento V: implementación y seguimiento del PISCC.
 
-- Momento VI: evaluación.
+-   Momento VI: evaluación.
 
 Esta coordinación interagencial debe satisfacer las metas e intereses de cada uno de los actores comprometidos, pues, el identificar problemáticas comunes no significa que todos quieran atacar las causas estructurales de la violencia y el delito de la misma forma, o que posean los mismos intereses y necesidades.
 
