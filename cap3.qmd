@@ -11,7 +11,7 @@ La coordinación intergubernamental e interinstitucional, sea bien en un estado 
 
 En la gráfica siguiente, se busca identificar las problemáticas según los ámbitos internacional, nacional, regional y local, priorizando, este último, como lo principal desde la lógica glocal, las problemáticas locales afectarán los demás ámbitos, pues todo converge en los barrios, comunas o localidades.
 
-!\[Interacciones espaciales\](images/interacciones_espaciales-01.png){fig-align="center"}
+\[Interacciones espaciales\](images/interacciones_espaciales-01.png){fig-align="center"}
 
 Interacción 1: se puede generar en varias zonas locales y regionales, su impacto es local, regional, nacional y/o internacional; es la más compleja de las problemáticas, por ejemplo, la explotación sexual de niños, niñas y adolescentes.
 
@@ -29,7 +29,7 @@ Interacción 7: la zona local y regional donde se genera es difusa, su impacto e
 
 Interacción 8: pueden ser generadas desde el interior del país con impacto a otros países, por ejemplo, el tráfico ilegal de oro en zonas fronterizas. También, aquellas que vienen del exterior al país, por ejemplo, ciberataques a los sistemas de información del Estado.
 
-En ALC no existe una comprensión profunda de las problemáticas subregionales, debiendo ser identificadas y comprendidas. Han existido avances desde la perspectiva de los cuerpos de policía, muestra de ello es la creación en el 2007 de la Comunidad de Policías de América \--AMERIPOL\--, para combatir el crimen organizado trasnacional, en la actualidad se encuentra en el trabajo de identificación de problemáticas propias del continente.
+En ALC no existe una comprensión profunda de las problemáticas subregionales, debiendo ser identificadas y comprendidas. Han existido avances desde la perspectiva de los cuerpos de policía, muestra de ello es la creación en el 2007 de la Comunidad de Policías de América (AMERIPOL), para combatir el crimen organizado trasnacional, en la actualidad se encuentra en el trabajo de identificación de problemáticas propias del continente.
 
 El ámbito internacional requiere ser estudiado, más pro- fundamente, desde las ciencias de policía, para identificar la configuración del ente policía a nivel internacional, pues se podría entrar en la discusión si organismos de cooperación multilateral, como Naciones Unidades o la Organización de Estados Americanos, mediante tratados, acuerdos o convenios ¿Son quienes regulan en el ente policía? O ¿Los gobiernos con toda su institucionalidad administran la función de policía? U organismos de cooperación policial multilateral como AMERIPOL ¿pueden ejecutar la función de policía? O en qué nivel de influencia tienen, al igual que la voluntad de cada Estado que rol juega en el ente policía.
 
@@ -49,7 +49,7 @@ Para los gobiernos uno de los grandes retos está ligado a motivar entes guberna
 
 Es necesario lograr la coordinación entre cada uno de los actores comprometidos, para que debatan las soluciones a las problemáticas encontradas y así diseñar políticas públicas intersectoriales, intergubernamentales e interinstitucionales, con participación activa de la comunidad, que logren atacar las causas estructurales de la violencia y el delito. Estas políticas públicas fundamentadas, en la filosofía y estrategia de la PDH, requieren ser construidas en escenarios, para la toma de decisiones, porque de nada sirve la buena voluntad si no se concreta por parte del estado y las partes interesadas la asignación de objetivos, recursos, sistemas de información, financiación, estrategias, programas, proyectos, indicadores, seguimiento y evaluación.
 
-La Guía metodológica, para la elaboración, implementación y seguimiento de los Planes Integrales de Seguridad y Convivencia Ciudadana \--PISCC\-- (Ministerio del Interior, Departamento Nacional de Planeación, Alta Consejería Presidencial para la Convivencia y la Seguridad Ciudadana, Policía Nacional, 2013), en Colombia, ofrece una metodología que podría ser referente, para la coordinación del Ente Policial y de esa forma atacar las casusas estructurales de la violencia y el delito. Basados en las problemáticas identificadas, la siguiente gráfica presenta seis momentos de esta metodología del PISCC:
+La Guía metodológica, para la elaboración, implementación y seguimiento de los Planes Integrales de Seguridad y Convivencia Ciudadana (PISCC) ver (Ministerio del Interior, Departamento Nacional de Planeación, Alta Consejería Presidencial para la Convivencia y la Seguridad Ciudadana, Policía Nacional, 2013), en Colombia, ofrece una metodología que podría ser referente, para la coordinación del Ente Policial y de esa forma atacar las casusas estructurales de la violencia y el delito. Basados en las problemáticas identificadas, la siguiente gráfica presenta seis momentos de esta metodología del PISCC:
 
 - Momento I: conocimiento del marco normativo de políticas públicas.
 
