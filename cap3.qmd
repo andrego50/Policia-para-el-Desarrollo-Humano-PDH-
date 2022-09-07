@@ -4,13 +4,15 @@
 
 El modelo PDH aterriza la seguridad humana a los cuerpos de policía, alineado con la cuarta revolución industrial. Este modelo de policía se concibe como una filosofía y estrategia para la construcción activa de la seguridad entre la ciudadanía y el Estado, con enfoque en la solución de problemas y necesidades en microterritorios multicrimen, analizados a través de la ciencia de los datos e inteligencia artificial, para prevenir las crisis, las causas estructurales de la violencia y el delito; y así, mejorar el desarrollo humano, reducir las tasas de criminalidad y mantener el Estado de Derecho.
 
-## Articulación y coordinación del Estado basado en problemáticas locales
+Para el caso de la PDH, un microterritorio multicrimen, es una zona rural o urbana donde se concentran diferentes delitos y violencia, lo cuáles son identificados a través de la ciencia de los datos, al igual que, los actores y redes criminales que actuan en allí. Así, se establecen las intervenciones integrales del Estado en lo local, y la estrategias policiales.
+
+## Articulación y coordinación del Estado basado en problemáticas de los microterritorios multicrimen.
 
 La coordinación intergubernamental e interinstitucional, sea bien en un estado centralista o federalista, siempre, es compleja, y más aún cuando no se comparte la misma ideología. Por ello, se pretende hacer consensos entre las problemáticas identificadas y priorizadas, de las que dependen de las afectaciones ciudadanas, y articularlas con las políticas públicas, para atacar las causas estructurales de la violencia y de los delitos que afectan el orden público.
 
 ### Identificación de problemáticas por interacciones espaciales
 
-En la gráfica siguiente, se busca identificar las problemáticas según los ámbitos internacional, nacional, regional y local, priorizando, este último, como lo principal desde la lógica glocal, las problemáticas locales afectarán los demás ámbitos, pues todo converge en los barrios, comunas o localidades.
+En la gráfica siguiente, se busca identificar las problemáticas según los ámbitos internacional, nacional, regional y local, priorizando, este último, como lo principal desde la lógica glocal "piensa global, actua local", las problemáticas locales afectarán los demás ámbitos, pues todo converge en los barrios, comunas, localidades y microterritorios.
 
 ![Interacciones espaciales](images/interacciones_espaciales-01.png){fig-align="center"}
 
@@ -74,4 +76,183 @@ La gráfica anterior no pretende ser impositiva sobre los niveles territoriales,
 
 ## PDH y la política pública de seguridad
 
+Reducir las causas estructurales de la violencia y el delito implican acciones integrales del Estado con enfoque en lo local, en este caso la PDH se articula en esa institucionalidad, se presentan las siguientes temas de intervención, de los cuáles se desprenden decisiones en los escenarios de articulación:
+
+### Análisis de factores sociales 
+
+- Identificar las causas estructurales de la violencia y el delito, con las circunstancias de modo, tiempo y lugar particulares.
+
+- Disminuir el subregistro de datos - habla de denuncias - hurto, violencia intrafamiliar.
+
+- Diseño de soluciones acordes a la evolución de las necesidades sociales y de las causas de la inseguridad.
+
+- Enfocar y diferenciar problemas en segmentos específicos de la población, identificando género, edades, estrato socioeconómico y otros datos que permitan llegar con una solución adecuada.
+
+- Una prioridad, en la recolección de la información, es fomentar la denuncia, para tener la mayor cantidad datos posibles, que permitan analizar y caracterizar los delitos, identificar las causas, impactos y el perfil de los responsables.
+
+### Participación comunitaria
+
+- La participación de la comunidad en diseño de políticas bien sea buttom-up (desde la comunidad hacia el Estado) y top-down (desde el Estado hacia la comunidad).
+
+- Se brindan espacios de socialización, como la familia, la escuela y la comunidad donde el ciudadano participa activamente en el despliegue de las políticas de seguridad ciudadana.
+
+- Espacios de participación de los jóvenes, en la construcción de soluciones, adecuadas, para la seguridad ciudadana, debe incluir su perspectiva del mundo y mirada de futuro.
+
+### Comunicaciones
+
+- Estrategias de comunicación segmentadas por cada público, población, cultura y edad.
+
+- Se evita fortalecer los estereotipos negativos de sociedad, un ejemplo se presenta cuando en muchas series de televisión la narcotraficante figura que ayuda a los pobres, pero por otro lado asesina a muchas personas, es decir el malo que es bueno.
+
+- Reducción al temor al delito, y emplear, adecuadamente, los medios de comunicación masivos del orden local, regional y nacional, como también las redes sociales e internet. 
+
+- Mensajes positivos y negativos de los medios de comunicación y redes sociales entre otros.
+
+- Acciones para entender los escenarios de la sociedad de la información y usar las tecnologías de la información y la comunicación, para llegar a todos los grupos poblacionales posibles, sin enfocarse únicamente en eventos de asistencia masiva, sino también en pequeñas acciones, pero constantes en el ámbito local.
+
+### Educación ciudadana
+
+- Educar hacia la cultura ciudadana, tolerancia y empatía.
+
+- Transmisión intergeneracional de valores en familias.
+
+- Cambiar el comportamiento de las personas, en el marco de los nuevos valores sociales, y enseñar el discernimiento de los mensajes que la sociedad mediante el simple hecho de tomar lo bueno y desechar lo malo.
+
+### Cooperación interinstitucional e internacional
+
+- Diseño e implementación de políticas públicas, para luchar contra el crimen organizado nacional y transnacional, articular acciones, desde lo local hasta lo internacional.
+
+- Anticipar la limitación de capacidades frente a fenómenos delictivos, que superan las capacidades institucionales.
+
+- Utilizar los instrumentos de cooperación interinstitucional e internacional vigentes.
+
+### Protección de los derechos humanos
+
+- Estrategias asertivas de aplicación de la Ley.
+
+- Atención de los requerimientos ciudadanos complejos de una sociedad, como la protesta social, para evitar al máximo el uso de la fuerza.
+
+- Acciones para la mejora de la eficiencia de la justicia y la política criminal.
+
+### Transparencia y rendición cuentas
+
+- Eventos de rendición de cuentas a la ciudadanía, como obligación, de un actor, de informar y explicar sus acciones a otro(s) que tiene(n) el derecho de exigirla.
+
+- Facilitar el acceso a la información y veeduría pública.
+
+- Estrategias para la prevención y disminución de los índices de corrupción al interior de las entidades encargadas de las seguridad y convivencia ciudadana.
+
+- Identificar las redes criminales, carteles, de la corrupción estatal, donde participan ciudadanos, servidores públicos y privados.
+
+### Seguimiento y evaluación
+
+- Seguimiento, monitoreo y evaluación permanente de la eficacia y efectividad de los planes y programas de convivencia y seguridad ciudadana.
+
+- Adaptación de los planes de acción a las necesidades y prioridades actuales, y a los impactos futuros deseados.
+
+- Estabilidad y continuidad de las estrategias con buenas prácticas.
+
+- Adaptación de soluciones traídas de otros países u zonas que han sido exitosas, al entorno, cultura, recursos y aceptación de la ciudadanía local.
+
+- Las evaluaciones de impacto deben incluir un ente externo al control interno institucional, y la ciudadanía.
+
+### Prevención sostenible
+
+- Diseñar políticas y programas de prevención sostenida en el tiempo y espacio de la reducción de la violencia y el delito.
+
+- Reducción de acciones inmediatas represivas, y aquellas que han fracasado.
+
+- Estrategias de reducción de enfocarse en las personas más débiles y fáciles de capturar y condenar, hacía los delincuentes más sofisticados y violentos.
+
+- Enfoque en mitigar las causas de la violencia y el delito.
+
+- Anticipar la ocurrencia de hechos delictivos y fenómenos sociales negativos para la seguridad, por ejemplo, mediante el uso de analítica de datos para anticipar las innovaciones tecnológicas criminales.
+
+### Gestión de las crisis
+
+- Sinergia entre actores para los escenarios de antes, durante y después de la crisis. 
+
+- Prevenir futuros conflictos, que requieren esfuerzos, para fortalecer la capacidad policial, justicia y sistema correccional, que pueden desencadenar en un conflicto, por ejemplo, vandalismo.
+
+- Atención oportuna y eficaz de las crisis según su complejidad en sitios geográficos específicos, durante un tiempo determinado.
+
+### Propuestas de políticas públicas y financiación
+
+- Diseño e implementación para intervenir conjuntamente la sociedad civil, las entidades privadas y las instancias gubernamentales, en sus distintos niveles, para solucionar problemas de diferentes tipos, como: económicos, sociales, de infraestructura, ambientales.
+
+- La articulación de esfuerzos con financiación y asignación de recursos, por parte de los responsables de poner en marcha las políticas públicas.
+
+- Diseño participativo de las políticas para que no sean aisladas y permitan lograr al resultado esperado. 
+
+- Medición de impacto de las políticas.
+
+### Generar tejido social
+
+- Generación de procesos de movilidad social. 
+
+- Buscar la solidez de la solidaridad básica como la familia, los amigos y el barrio.
+
+- Generar la fuerza de sentimiento de compromiso para mejora de las condiciones de seguridad y convivencia.
+
+- Inclusión de los jóvenes vulnerables en los procesos sociales para alejarlos de la criminalidad.
+
+- Vinculación de la empresa privada en la solución de problemáticas.
+
+- Fortalecer la protección de los derechos a las comunidades autóctonas en materia de propiedad colectiva de la tierra, la representación política específica, el plurilingüismo, la justicia consuetudinaria o indígena.
+
+- Respeto e integración de la pluriculturalidad y atienda las necesidades particulares de esas comunidades.
+
+### Planificación urbana y rural
+
+- Articulación del planeamiento urbano y rural realizado por las autoridades del orden local, regional y nacional con la seguridad.
+
+- Anticipar o estimar los impactos en la seguridad ciudadana de los cambios en el uso del suelo, la creación de nuevas vías, sistemas de transporte, la autorización de construcciones de mayor altura o el cambio de sentido de una autopista, entre otros.
+
+### Control y disuación
+
+- Identificación de las cotas superiores e inferiores del delito por cada unidad territorial.
+
+- Involucrar ciudadanos y grupos sociales para la protección del territorio del delito, por ejemplo, frentes de seguridad ciudadana.
+
+- Diseño de estrategias basadas policía de orientación comunitaria, policía orientada a la solución de problemas con el proceso SARA (escaneo, análisis, respuesta y evaluación), policía guiada por la inteligencia; y la estrategia de policía basada en incidentes.
+
+### Innovación local
+
+- Mejora de los estándares y procesos de calidad frente a la prestación de servicio de seguridad al ciudadano.
+
+- Creación de soluciones de base comunitaria, que nacen de la interacción de aquellos que poseen un problema y necesitan solucionarlo. 
+
+- Impulso de soluciones basadas en la glocalidad “pensar globalmente, actuar localmente”.
+
 ## PDH y la gestión de los cuerpos de policía
+
+### Procesos de prevención, disuasión y control del delito, inteligencia y policía judicial
+
+- Vincular en su misión a las partes interesadas, con una amplia participación en las decisiones, control y desarrollo de las actividades.
+
+- La trasparencia en los procedimientos policiales, donde el ciudadano los puede seguir y observar permanentemente.
+
+- Diseño de soluciones de mano inteligente, que privilegian la prevención y anticipación del delito.
+
+- Atención inmediata en territorio de las necesidades básicas individuales en seguridad ciudadana.
+
+### Análisis del entorno
+
+- Se identifican factores de contexto de tipo Político, Económico, Social, Tecnológico y Ambiental –PESTA–, que están fuera del control de la policía y se le suma el factor Criminal (C) y el de la organización policial (P), así: PESTA+CP.
+
+- Analizar los cambios y nuevos retos en seguridad ciudadana, inclusive con la prevención, atención y resiliencia de las crisis de factores que afectan la convivencia y que ponen en peligro el desarrollo normal del Estado de Derecho.
+
+### Medición de resultados
+
+- Los indicadores policiales deben enfocarse en medir el impacto de la solución de las causas estructurales de la violencia y el delito en el contexto local, en las estadísticas de capturas, recuperaciones, incautaciones, etc, y las afectaciones a la convivencia.
+
+- Evaluación de la efectividad para verificar el funcionamiento del modelo de evaluación integral y hacerlo incluyente de los diferentes actores (comunidad, empresas, autoridades) y partes interesadas (comunidad internacional, las ONG) tanto a los resultados, como a los responsables de generar estos.
+
+- Los indicadores miden la implementación de las estrategias y las consecuencias perdurables, con el objetivo de lograr una mayor proximidad con la comunidad. 
+
+- Los indicadores miden la percepción ciudadana respecto de acciones policiales y desempeño policial, por ejemplo, los provenientes de encuestas de victimización y percepciones de seguridad. 
+
+- Se identifica y mide la brecha entre la expectativa y la realidad con respecto al accionar policial y la percepción sobre la calidad del servicio efectivamente entregado al público.
+
+### Control de externalidades
+

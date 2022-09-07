@@ -12,6 +12,14 @@ Según las definiciones anteriores y teniendo en cuenta que el presente document
 
 Se debe tener en cuenta, como expone SUÁREZÁLVAREZ(2009), que en ALC la ciencia de policía ha sido enfocada principalmente a los cuerpos de policía, la administración pública y algunas aproximaciones desde el derecho; por ello, se busca ampliar esta perspectiva de la ciencia de policía, para abarcar los ámbitos políticos, jurídicos, administrativos y sociales necesarios para atacar las causas estructurales de la violencia y el delito mediante la prevención buscando el desarrollo humano, a través del uso de la filosofía y estrategia de la Policía para el Desarrollo Humano (PDH) que se propone en el presente trabajo.
 
+La filosofía, en sentido estricto es disciplina metódica del arte de pensar en aquello necesario y suficiente para imprimir sentido y dirección a la acción humana (suárez, 2009). La filosofía en el actuar policial de los funcionarios que regulan, administran y ejecutan la función de policía, pueden guiar su actuar, como se cita a continuación:
+
+*"Suele decirse que lo policial corresponde al"sentido común", queriendo significar con esto que una solución policial debe ser tan justa, tan imparcial, tan sabía que no genere prejuicio, o si indispensablemente debe ocasionarlo, lo haga con tal sentido de las proporciones, que los afectados lo acepten de buenas maneras, porque no denota un atropello, sino la necesidad imperiosa de limitar derechos individuales en aras del interés común". (PeñA, 1998, p. 42).*
+
+La filosofía policial, sobre todo, implica la participación activa y comprometida de diferentes actores, como: el empresarial y productivo, los entes del Estado y los ciudadanos que a su vez son los actores principales en la prevención y abordaje integral de los problemas de seguridad. Pero, una filosofía comunitaria implica profundas transformaciones, en los cuerpos de policía, en términos de cambio de pensamiento, cultural, organizacional y de relaciones y responsabilidades con la PDH, la ciudadanía, el Estado y la sociedad civil. Igualmente, implica que las estrategias sean sostenibles, es decir, continuas, planificadas y financiadas; y participen activamente en la atención y resiliencia de las crisis.
+
+En este entendido, la policía para el desarrollo humano, junto con autoridades políticas y la sociedad civil, debe prevenir y contrarrestar integralmente los problemas de seguridad y convivencia siendo enfáticos en la corresponsabilidad de comprender la génesis, evolución y proyección de los factores que escalan violencia y conflictividad social, para poder orientar las estrategias y anticipar los riesgos futuros (CArdoso, 2011), que afectarían negativamente la seguridad humana y, principalmente, la convivencia para el desarrollo humano.
+
 ### ¿Qué es el ente policía?
 
 Se puede entender, desde el trabajo de SUÁREZÁLVAREZ(2009) quien en su obra sintetiza diferentes autores, pensamientos históricos y contemporáneos de la ciencia de policía, realizando un estado del arte apropiado para articular esta ciencia policial con el desarrollo humano, como el fenómeno complejo histórico-político, significando el ser y los modos de ser del fenómeno policial que poseen diversos sentidos y dimensiones, pero, este ente policía, debe ser llevado a la realidad, para que facilite el entendimiento de los problemas sociales para que este conocimiento, creado, permita a la PDH atacar las causas estructurales de la violencia y el delito.
@@ -108,7 +116,44 @@ Por otro lado, el ente policía debería tener una base de datos con las contrav
 
 Como se ha dicho y se reitera, el crimen cero puede ser una utopía; en estas condiciones el Ente Policía debe combinar la prevención a través de atacar las causas estructurales de la violencia y el delito, con la disuasión, el control y la investigación criminal, que también hacen parte de la PDH, pues, como dice llerAs PizArro (2009), no todas las personas están dispuestas a las normas de convivencia y el Estado debe valerse de medios materiales sin cuyo empleo seria irrisorio el poder preventivo; algunos abusan de sus libertades porque no tienen y otros porque tienen muchas.
 
-## Modelos y estrategias policiales
+## Estrategias y modelos de policía
 
-## Prevención, disuación, control e investigación criminal
+En América latina y el caribe se utilizan principalmente 4 estrategias para prestar el servicio de policía y diseño de planes.
 
+-   Prevención: estrategias para reducir las causas estructurales de la violencia y el delito, al igual que, aquellos factores sociales, contextuales y geográficos, como los puntos calientes (hot-spot).
+
+-   Disuación: estrategias en zonas geográficas para reducir el riesgo que se cometa violencia y delito, donde no implique la interacción con los ciudadanos, por ejemplo, cámaras de seguridad o presencia policial.
+
+-   Control: estrategias que implican la interacción del ciudadano con los funcionarios de policía, por ejemplo, registros a personas y vehículos.
+
+-   Investigación criminal: estrategias para desde la policía judicial desarticular redes del crimen organizado mediante capturas o incautación de bienes.
+
+![Elaboración propia](images/prev_inv_crim.png)
+
+Complementario a lo anterior, existen ciertos modelos policía que abarcan diferentes ámbitos de acción, para contrarrestar la violencia y el delito, se debe tener en cuenta que estos no fueron concebidos para realidad de América Latina y el caribe. Por lo tanto, se pretende articular estos avances conceptuales y axiológicos para la PDH:
+
+-   Policía de orientación comunitaria: una estrategia enfocada en la descentralización de la actividad policial, que permite a los comandantes locales y a los policiales, sobre el terreno, trabajar conjuntamente con las poblaciones de los barrios en el desarrollo e implementación de estrategias con la policía.
+
+-   Policía orientada a resolver problemas (POP por su sigla en inglés): una estrategia policial que se centra en el uso de la evidencia, la investigación y contacto con la comunidad, para desarrollar estrategias preventivas y resolver problemas, en lugar de centrarse en responder a incidentes específicos después de ocurrido un crimen.
+
+-   Policía guiada por inteligencia: una estrategia policial que se centra en la recolección de información detallada, sobre las actividades delictivas, con el fin de aunar esfuerzos en la aplicación de la Ley y la orientación de las patrullas de vigilancia (Cullompton, Devon and Portland, Oregón, Willan Publishing, 2003, citado en (UNODC & UN-HABITAT, 2011) Modelo que se centra en los esfuerzos de investigación y capacidad de inteligencia que tiene el cuerpo de policía, de cierta manera, instrumentaliza las relaciones que se desarrollan con la comunidad como proveedoras de información.
+
+-   Policía basada en incidentes: estrategia que se centra en una presencia policial, regular, en barrios de alto estrato social y zonas empresariales, con una presencia policial intermitente en otros barrios (Cláudio C. beAtofilho, Bráulio fiGueredo Alves dA silvA and Ricardo tAvAres, citado en (UNODC & UN-HABITAT, 2011)). En ALC se puede interpretar mejor esta estrategia con la creación de grupos especializados policiales, que pretenden atacar como delito circunstancial que principalmente está presente en la opinión pública.
+
+En este sentido la PDH pretende integrar las estrategias y actividades de policía -prevención, disuasión, control e investigación criminal- en el ente policía; puesto que ataca las causas de la violencia y el delito, pero se focaliza, principalmente, en la prevención, ver figura siguiente:
+
+![Elaboración propia](images/actuar_policial.jpg)
+
+Según la figura anterior, se muestra gráficamente cómo se podrían articular las estrategias de policía y su influencia en las actividades de policía, igualmente, se proponen, en esta cadena de actuación policial tres zonas de actuar de la PDH.
+
+-   Zona A: prevención, ataca las causas estructurales de la violencia y el delito, también puede estar clasificada dentro de la prevención primaria. Se puede deducir que la PDH, como estrategia del ente policía, apunta a las primeras acciones preventivas posibles.
+
+-   Zona B: la policía para el desarrollo humano, también, ataca los factores sociales, contextuales y geográficos de la violencia y el delito, y los llamados puntos calientes, presentes en la prevención, disuasión y control, para ser concentrada a grupos concretos.
+
+-   Zona C: busca el esclarecimiento de los hechos delictivos, ya consumados, y la identificación de los responsables de estos; está enfocada en el final del control e inicio de la investigación criminal, pero, esta zona, es muy importante, porque permite, en cierta forma, hacer prevención, puesto que, al esclarecer eficientemente los crímenes, se reduce la impunidad, que es una causa estructural. También está presente la prevención terciaria, que busca la no reincidencia de los criminales.
+
+La policía, guiada por inteligencia, está enfocada en recopilar información, para ubicar las patrullas policiales en una jurisdicción y evitar la comisión de un delito. Es transversal y aporta a las otras estrategias en tratar de entender cómo se comportará el delincuente, pero no ataca las causas que llevan a este a realizar un delito; por ello, se ubica en las actividades de disuasión, control e investigación criminal.
+
+Para hacer claridad, la PDH se diferencia, con el modelo policía para el desarrollo humano (PDH), en que pretende articular el ente policía -instituciones que regulan libertades y derechos, administran y ejecutan la función de policía- y no se limita a los cuerpos de policía.
+
+De igual forma, entiende que para reducir las causas estructurales se requiere la participación, interacción e integración de muchas instituciones, organizaciones y la sociedad en general; así, aúna esfuerzos coordinadamente con el apoyo de la salud, la educación, y la economía, entre otros.
