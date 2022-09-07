@@ -226,6 +226,8 @@ Reducir las causas estructurales de la violencia y el delito implican acciones i
 
 ## PDH en la gestión de los cuerpos de policía
 
+Cada cuerpo de policía tiene sus particularidades y realidad local, los siguientes temas son actividades o procesos que deben ser mínimos en la gestión interna del cuerpo de policía.
+
 ### Procesos de prevención, disuasión y control del delito, inteligencia y policía judicial
 
 - Vincular en su misión a las partes interesadas, con una amplia participación en las decisiones, control y desarrollo de las actividades.
@@ -256,3 +258,120 @@ Reducir las causas estructurales de la violencia y el delito implican acciones i
 
 ### Control de externalidades
 
+- Identificar los efectos indirectos no compensados, que producen el servicio de policía, por ejemplo, mayor población flotante por una nueva unidad policial.
+
+- Acciones para externalidades positivas: cuando los efectos de las actividades policiales mejoran, de alguna manera, las oportunidades de la comunidad.
+
+- Acciones para las externalidades negativas: cuando los efectos de las actividades policiales son nocivas para la comunidad.
+
+- Acciones para la externalidad posicional: relacionado con el uso inadecuado o derroche de recursos personales, sociales y tiempo, que no genera un impacto óptimo en la comunidad, ni mejora la imagen de la policía.
+
+### Tecnología, movilidad e infraestructura
+
+- Implementar el uso de herramientas del servicio en materia de infraestructura, sistemas de información, comunicaciones, movilidad, robots, sistemas de video vigilancia, modelamiento y simulación, análisis de datos, sistemas de información geográfica, internet, entre otros.
+
+- Disponer el uso de herramientas tecnológicas para el ciudadano, por ejemplo las denuncias online o la revisión de antecedentes.
+
+### Sistemas de gestión y calidad
+
+- Aplicación de los modelos de gestión y certificaciones de calidad en el servicio de policía.
+
+- Propuesta de cambio y mejora en los procesos, procedimientos, guías entre otros.
+
+- Generación de documentos doctrinales como manuales, reglamentos, etc.
+
+### Profesionalización
+
+- Gestión del conocimiento: es la generación y apropiación del cono- cimiento mediante la construcción colectiva, que puede ser utilizado por parte de los policiales en el servicio.
+
+- Formación, entrenamiento y capacitación: cursos, seminarios, diplomados, pregrados y posgrados, así como momentos de discusión que fortalezcan la doctrina policial y las ciencias de policía.
+
+- Perfiles y competencias: es la articulación del ser (principios y valores éticos), saber (conocimiento) y saber hacer (experiencia) para los diferentes cargos y servicios que los policías ocupan.
+
+- Transferencia de conocimiento: es la capacidad del cuerpo de policía, para integrar a su gestión y divulgar el conocimiento organizacional a los nuevos y antiguos policías, a la sociedad y a las autoridades políticas.
+
+### Relaciones con la comunidad
+
+- Participación ciudadana en las decisiones con el fin de integrar las preguntas, quejas, reclamos y sugerencias en la gestión de la organización, pero no solo para dar repuesta al ciudadano, sino con insumo para la toma de decisiones policiales de corto, mediano y largo plazo.
+
+- Cocreación: como es tenida en cuenta la comunidad en el diseño de soluciones a las necesidades y situaciones que van apareciendo.
+
+### Prevención y anticipación del delito
+
+- Acciones planeadas en el corto y mediano para organizar el servicio de policía según los requerimientos ciudadanos y los análisis delictivos.
+
+- Despliegue de la oferta de prevención por cada delito.
+
+- Aplicación oportuna de normas de convivencia.
+
+### Autonomía local
+
+- Atender las necesidades básicas, insatisfechas de seguridad ciudadana, en pequeñas microterritorios multicrimen.
+
+- Establecer metas a nivel territorial de tasas delictivas y ocurrencia de delitos.
+
+- Alineación de metas con los planes de desarrollo locales.
+
+- Gestión de recursos y financiación en lo local de las estrategias de seguridad y convivencia.
+
+### Cultura y comunicaciones
+
+- Gestionar los mensajes, imágenes y textos, cuyo efecto si contribuye a moldear subjetividades.
+
+- Generar comunicación a través de mensajes, imágenes, videos y textos, para llegar acertadamente a la ciudadanía.
+
+- Construir una legitimidad del cuerpo de policía para afectar positivamente, los resultados y las relaciones con la comunidad.
+
+- Evaluar la evolución de cambio, por ejemplo, encuestas de percepción de la policía.
+
+- Estrategias de comunicación interna, que permita concientizar a la mujer y hombre policía de la importancia de su labor frente a la mejora del desarrollo humano de la comunidad.
+
+- Disminuir la resistencia a las actividades de control del servicio de policía.
+
+### Políticas organizacionales
+
+- Articular las políticas gubernamentales con las institucionales.
+
+- Aplicar las políticas del nivel central, de forma sostenible, constante y cubrir las diferentes áreas del cuerpo de policía, por ejemplo, política de ubicación laboral.
+
+### Liderazgo policial
+
+- Buscar situaciones de no confrontación con los ciudadanos.
+
+- Fomentar el relacionamiento, como la capacidad institucional, que permite vincular positiva y críticamente a las personas al servicio de policía.
+
+- Motivar a los ciudadanos organizados -integrantes de juntas o comités zonales- y no organizados -ciudadanos de a pie- a participar en las actividades de la policía, como también en los medios de comunicación y redes sociales. 
+
+- Realizar Alianzas Público Privadas –APP–. En este entendido, se debe vincular el sector privado en la creación conjunta de seguridad con los ciudadanos y la policía.
+
+### Autocontrol
+
+- Identificar las áreas de mejora y fallas en el servicio de policía.
+
+- Acciones en contra de la corrupción.
+
+- Control en la mejora de prestación del servicio de policía
+
+- Fomentar el autocontrol personal en los procedimientos.
+
+### Respuesta ante las crisis
+
+- Planear las acciones antes, durante y después de una crisis.
+
+- Facilitar las condiciones necesarias de seguridad ciudadana, para el desarrollo humano en cada una de las etapas de la crisis.
+
+- Durante un escenario de crisis, buscar primordialmente la protección de la población y el mantenimiento o restablecimiento del Estado de Derecho. 
+
+### Respeto de los derechos humanos
+
+- Actividades de promoción y difusión de los derechos humanos.
+
+- Acciones para mantener la disciplina.
+
+- Facilitar la denuncia contra funcionarios.
+
+- Capacitación en derechos humanos.
+
+- Validación de procedimientos por parte del ministerio público.
+
+- Comunicación con organizaciones protectoras de derechos humanos.
