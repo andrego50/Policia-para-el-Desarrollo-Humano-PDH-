@@ -8,6 +8,10 @@ Esta versión del PDH se estará actualizando, presentará cambios y mejoras, co
 
 Cuando se hable de seguridad ciudadana, se refiere desde la perspectiva de seguridad humana, pues esta última amplia este concepto.
 
+## Libro impreso
+
+[![Si lo desea adquirir haga clic en la imagen](images/pdh_impreso-01.png)](https://bblibros.com/Libros/Polic%C3%ADa-para-el-desarrollo-humano-PDH/)
+
 ## Dedicatoria
 
 Gabriela, hija mía la vida está llena de retos y alegrías, pero confía en lo que tu corazón te dice.
@@ -34,4 +38,4 @@ Igualmente, para esta edición realizar el Doctorado en Ingeniería Matemática 
 
 ## 
 
-**"Caminando en línea recta no puede uno llegar muy lejos" Le Petit Prince de Antoine de Saint-Exupéry"**
+**"Caminando en línea recta no puede uno llegar muy lejos"** Le Petit Prince de Antoine de Saint-Exupéry"
