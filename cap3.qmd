@@ -6,7 +6,7 @@ El modelo PDH aterriza la seguridad humana a los cuerpos de policía, alineado c
 
 Para el caso de la PDH, un microterritorio multicrimen, es una zona rural o urbana donde se concentran diferentes delitos y violencia, lo cuáles son identificados a través de la ciencia de los datos, al igual que, los actores y redes criminales que actuan en allí. Así, se establecen las intervenciones integrales del Estado en lo local, y la estrategias policiales.
 
-## Articulación y coordinación del Estado basado en problemáticas de los microterritorios multicrimen.
+## PDH en la coordinación del Estado basado en problemáticas de los microterritorios multicrimen.
 
 La coordinación intergubernamental e interinstitucional, sea bien en un estado centralista o federalista, siempre, es compleja, y más aún cuando no se comparte la misma ideología. Por ello, se pretende hacer consensos entre las problemáticas identificadas y priorizadas, de las que dependen de las afectaciones ciudadanas, y articularlas con las políticas públicas, para atacar las causas estructurales de la violencia y de los delitos que afectan el orden público.
 
@@ -16,21 +16,21 @@ En la gráfica siguiente, se busca identificar las problemáticas según los ám
 
 ![Interacciones espaciales](images/interacciones_espaciales-01.png){fig-align="center"}
 
-Interacción 1: se puede generar en varias zonas locales y regionales, su impacto es local, regional, nacional y/o internacional; es la más compleja de las problemáticas, por ejemplo, la explotación sexual de niños, niñas y adolescentes.
+**Interacción 1:** se puede generar en varias zonas locales y regionales, su impacto es local, regional, nacional y/o internacional; es la más compleja de las problemáticas, por ejemplo, la explotación sexual de niños, niñas y adolescentes.
 
-Interacción 2: se genera en varias zonas locales de una misma región y su impacto va hasta lo regional, por ejemplo, el abigeato.
+**Interacción 2:** se genera en varias zonas locales de una misma región y su impacto va hasta lo regional, por ejemplo, el abigeato.
 
-Interacción 3: se genera en una zona local específica y su impacto es nacional, por ejemplo, falsificación de medicamentos.
+**Interacción 3:** se genera en una zona local específica y su impacto es nacional, por ejemplo, falsificación de medicamentos.
 
-Interacción 4: identificar la zona local donde se genera es difusa, entonces, se genera en varias zonas de una región y llega hasta el impacto nacional, por ejemplo, el tráfico de cocaína.
+**Interacción 4:** identificar la zona local donde se genera es difusa, entonces, se genera en varias zonas de una región y llega hasta el impacto nacional, por ejemplo, el tráfico de cocaína.
 
-Interacción 5: se genera en lo local pero solo impacta allí mismo, por ejemplo, las lesiones personales por riña.
+**Interacción 5:** se genera en lo local pero solo impacta allí mismo, por ejemplo, las lesiones personales por riña.
 
-Interacción 6: se genera en varias zonas de región y su impacto se limita a esta misma, por ejemplo, el asalto a buses de servicio intermunicipal.
+**Interacción 6:** se genera en varias zonas de región y su impacto se limita a esta misma, por ejemplo, el asalto a buses de servicio intermunicipal.
 
-Interacción 7: la zona local y regional donde se genera es difusa, su impacto es nacional y/o internacional, por ejemplo, la corrupción o el lavado de activos.
+**Interacción 7:** la zona local y regional donde se genera es difusa, su impacto es nacional y/o internacional, por ejemplo, la corrupción o el lavado de activos.
 
-Interacción 8: pueden ser generadas desde el interior del país con impacto a otros países, por ejemplo, el tráfico ilegal de oro en zonas fronterizas. También, aquellas que vienen del exterior al país, por ejemplo, ciberataques a los sistemas de información del Estado.
+**Interacción 8:** pueden ser generadas desde el interior del país con impacto a otros países, por ejemplo, el tráfico ilegal de oro en zonas fronterizas. También, aquellas que vienen del exterior al país, por ejemplo, ciberataques a los sistemas de información del Estado.
 
 En ALC no existe una comprensión profunda de las problemáticas subregionales, debiendo ser identificadas y comprendidas. Han existido avances desde la perspectiva de los cuerpos de policía, muestra de ello es la creación en el 2007 de la Comunidad de Policías de América (AMERIPOL), para combatir el crimen organizado trasnacional, en la actualidad se encuentra en el trabajo de identificación de problemáticas propias del continente.
 
@@ -78,151 +78,151 @@ La gráfica anterior no pretende ser impositiva sobre los niveles territoriales,
 
 Reducir las causas estructurales de la violencia y el delito implican acciones integrales del Estado con enfoque en lo local, en este caso la PDH se articula en esa institucionalidad, se presentan las siguientes temas de intervención, de los cuáles se desprenden decisiones en los escenarios de articulación:
 
-### Análisis de factores sociales 
+### Análisis de factores sociales
 
-- Identificar las causas estructurales de la violencia y el delito, con las circunstancias de modo, tiempo y lugar particulares.
+-   Identificar las causas estructurales de la violencia y el delito, con las circunstancias de modo, tiempo y lugar particulares.
 
-- Disminuir el subregistro de datos - habla de denuncias - hurto, violencia intrafamiliar.
+-   Disminuir el subregistro de datos - habla de denuncias - hurto, violencia intrafamiliar.
 
-- Diseño de soluciones acordes a la evolución de las necesidades sociales y de las causas de la inseguridad.
+-   Diseño de soluciones acordes a la evolución de las necesidades sociales y de las causas de la inseguridad.
 
-- Enfocar y diferenciar problemas en segmentos específicos de la población, identificando género, edades, estrato socioeconómico y otros datos que permitan llegar con una solución adecuada.
+-   Enfocar y diferenciar problemas en segmentos específicos de la población, identificando género, edades, estrato socioeconómico y otros datos que permitan llegar con una solución adecuada.
 
-- Una prioridad, en la recolección de la información, es fomentar la denuncia, para tener la mayor cantidad datos posibles, que permitan analizar y caracterizar los delitos, identificar las causas, impactos y el perfil de los responsables.
+-   Una prioridad, en la recolección de la información, es fomentar la denuncia, para tener la mayor cantidad datos posibles, que permitan analizar y caracterizar los delitos, identificar las causas, impactos y el perfil de los responsables.
 
 ### Participación comunitaria
 
-- La participación de la comunidad en diseño de políticas bien sea buttom-up (desde la comunidad hacia el Estado) y top-down (desde el Estado hacia la comunidad).
+-   La participación de la comunidad en diseño de políticas bien sea buttom-up (desde la comunidad hacia el Estado) y top-down (desde el Estado hacia la comunidad).
 
-- Se brindan espacios de socialización, como la familia, la escuela y la comunidad donde el ciudadano participa activamente en el despliegue de las políticas de seguridad ciudadana.
+-   Se brindan espacios de socialización, como la familia, la escuela y la comunidad donde el ciudadano participa activamente en el despliegue de las políticas de seguridad ciudadana.
 
-- Espacios de participación de los jóvenes, en la construcción de soluciones, adecuadas, para la seguridad ciudadana, debe incluir su perspectiva del mundo y mirada de futuro.
+-   Espacios de participación de los jóvenes, en la construcción de soluciones, adecuadas, para la seguridad ciudadana, debe incluir su perspectiva del mundo y mirada de futuro.
 
 ### Comunicaciones
 
-- Estrategias de comunicación segmentadas por cada público, población, cultura y edad.
+-   Estrategias de comunicación segmentadas por cada público, población, cultura y edad.
 
-- Se evita fortalecer los estereotipos negativos de sociedad, un ejemplo se presenta cuando en muchas series de televisión la narcotraficante figura que ayuda a los pobres, pero por otro lado asesina a muchas personas, es decir el malo que es bueno.
+-   Se evita fortalecer los estereotipos negativos de sociedad, un ejemplo se presenta cuando en muchas series de televisión la narcotraficante figura que ayuda a los pobres, pero por otro lado asesina a muchas personas, es decir el malo que es bueno.
 
-- Reducción al temor al delito, y emplear, adecuadamente, los medios de comunicación masivos del orden local, regional y nacional, como también las redes sociales e internet. 
+-   Reducción al temor al delito, y emplear, adecuadamente, los medios de comunicación masivos del orden local, regional y nacional, como también las redes sociales e internet.
 
-- Mensajes positivos y negativos de los medios de comunicación y redes sociales entre otros.
+-   Mensajes positivos y negativos de los medios de comunicación y redes sociales entre otros.
 
-- Acciones para entender los escenarios de la sociedad de la información y usar las tecnologías de la información y la comunicación, para llegar a todos los grupos poblacionales posibles, sin enfocarse únicamente en eventos de asistencia masiva, sino también en pequeñas acciones, pero constantes en el ámbito local.
+-   Acciones para entender los escenarios de la sociedad de la información y usar las tecnologías de la información y la comunicación, para llegar a todos los grupos poblacionales posibles, sin enfocarse únicamente en eventos de asistencia masiva, sino también en pequeñas acciones, pero constantes en el ámbito local.
 
 ### Educación ciudadana
 
-- Educar hacia la cultura ciudadana, tolerancia y empatía.
+-   Educar hacia la cultura ciudadana, tolerancia y empatía.
 
-- Transmisión intergeneracional de valores en familias.
+-   Transmisión intergeneracional de valores en familias.
 
-- Cambiar el comportamiento de las personas, en el marco de los nuevos valores sociales, y enseñar el discernimiento de los mensajes que la sociedad mediante el simple hecho de tomar lo bueno y desechar lo malo.
+-   Cambiar el comportamiento de las personas, en el marco de los nuevos valores sociales, y enseñar el discernimiento de los mensajes que la sociedad mediante el simple hecho de tomar lo bueno y desechar lo malo.
 
 ### Cooperación interinstitucional e internacional
 
-- Diseño e implementación de políticas públicas, para luchar contra el crimen organizado nacional y transnacional, articular acciones, desde lo local hasta lo internacional.
+-   Diseño e implementación de políticas públicas, para luchar contra el crimen organizado nacional y transnacional, articular acciones, desde lo local hasta lo internacional.
 
-- Anticipar la limitación de capacidades frente a fenómenos delictivos, que superan las capacidades institucionales.
+-   Anticipar la limitación de capacidades frente a fenómenos delictivos, que superan las capacidades institucionales.
 
-- Utilizar los instrumentos de cooperación interinstitucional e internacional vigentes.
+-   Utilizar los instrumentos de cooperación interinstitucional e internacional vigentes.
 
 ### Protección de los derechos humanos
 
-- Estrategias asertivas de aplicación de la Ley.
+-   Estrategias asertivas de aplicación de la Ley.
 
-- Atención de los requerimientos ciudadanos complejos de una sociedad, como la protesta social, para evitar al máximo el uso de la fuerza.
+-   Atención de los requerimientos ciudadanos complejos de una sociedad, como la protesta social, para evitar al máximo el uso de la fuerza.
 
-- Acciones para la mejora de la eficiencia de la justicia y la política criminal.
+-   Acciones para la mejora de la eficiencia de la justicia y la política criminal.
 
 ### Transparencia y rendición cuentas
 
-- Eventos de rendición de cuentas a la ciudadanía, como obligación, de un actor, de informar y explicar sus acciones a otro(s) que tiene(n) el derecho de exigirla.
+-   Eventos de rendición de cuentas a la ciudadanía, como obligación, de un actor, de informar y explicar sus acciones a otro(s) que tiene(n) el derecho de exigirla.
 
-- Facilitar el acceso a la información y veeduría pública.
+-   Facilitar el acceso a la información y veeduría pública.
 
-- Estrategias para la prevención y disminución de los índices de corrupción al interior de las entidades encargadas de las seguridad y convivencia ciudadana.
+-   Estrategias para la prevención y disminución de los índices de corrupción al interior de las entidades encargadas de las seguridad y convivencia ciudadana.
 
-- Identificar las redes criminales, carteles, de la corrupción estatal, donde participan ciudadanos, servidores públicos y privados.
+-   Identificar las redes criminales, carteles, de la corrupción estatal, donde participan ciudadanos, servidores públicos y privados.
 
 ### Seguimiento y evaluación
 
-- Seguimiento, monitoreo y evaluación permanente de la eficacia y efectividad de los planes y programas de convivencia y seguridad ciudadana.
+-   Seguimiento, monitoreo y evaluación permanente de la eficacia y efectividad de los planes y programas de convivencia y seguridad ciudadana.
 
-- Adaptación de los planes de acción a las necesidades y prioridades actuales, y a los impactos futuros deseados.
+-   Adaptación de los planes de acción a las necesidades y prioridades actuales, y a los impactos futuros deseados.
 
-- Estabilidad y continuidad de las estrategias con buenas prácticas.
+-   Estabilidad y continuidad de las estrategias con buenas prácticas.
 
-- Adaptación de soluciones traídas de otros países u zonas que han sido exitosas, al entorno, cultura, recursos y aceptación de la ciudadanía local.
+-   Adaptación de soluciones traídas de otros países u zonas que han sido exitosas, al entorno, cultura, recursos y aceptación de la ciudadanía local.
 
-- Las evaluaciones de impacto deben incluir un ente externo al control interno institucional, y la ciudadanía.
+-   Las evaluaciones de impacto deben incluir un ente externo al control interno institucional, y la ciudadanía.
 
 ### Prevención sostenible
 
-- Diseñar políticas y programas de prevención sostenida en el tiempo y espacio de la reducción de la violencia y el delito.
+-   Diseñar políticas y programas de prevención sostenida en el tiempo y espacio de la reducción de la violencia y el delito.
 
-- Reducción de acciones inmediatas represivas, y aquellas que han fracasado.
+-   Reducción de acciones inmediatas represivas, y aquellas que han fracasado.
 
-- Estrategias de reducción de enfocarse en las personas más débiles y fáciles de capturar y condenar, hacía los delincuentes más sofisticados y violentos.
+-   Estrategias de reducción de enfocarse en las personas más débiles y fáciles de capturar y condenar, hacía los delincuentes más sofisticados y violentos.
 
-- Enfoque en mitigar las causas de la violencia y el delito.
+-   Enfoque en mitigar las causas de la violencia y el delito.
 
-- Anticipar la ocurrencia de hechos delictivos y fenómenos sociales negativos para la seguridad, por ejemplo, mediante el uso de analítica de datos para anticipar las innovaciones tecnológicas criminales.
+-   Anticipar la ocurrencia de hechos delictivos y fenómenos sociales negativos para la seguridad, por ejemplo, mediante el uso de analítica de datos para anticipar las innovaciones tecnológicas criminales.
 
 ### Gestión de las crisis
 
-- Sinergia entre actores para los escenarios de antes, durante y después de la crisis. 
+-   Sinergia entre actores para los escenarios de antes, durante y después de la crisis.
 
-- Prevenir futuros conflictos, que requieren esfuerzos, para fortalecer la capacidad policial, justicia y sistema correccional, que pueden desencadenar en un conflicto, por ejemplo, vandalismo.
+-   Prevenir futuros conflictos, que requieren esfuerzos, para fortalecer la capacidad policial, justicia y sistema correccional, que pueden desencadenar en un conflicto, por ejemplo, vandalismo.
 
-- Atención oportuna y eficaz de las crisis según su complejidad en sitios geográficos específicos, durante un tiempo determinado.
+-   Atención oportuna y eficaz de las crisis según su complejidad en sitios geográficos específicos, durante un tiempo determinado.
 
 ### Propuestas de políticas públicas y financiación
 
-- Diseño e implementación para intervenir conjuntamente la sociedad civil, las entidades privadas y las instancias gubernamentales, en sus distintos niveles, para solucionar problemas de diferentes tipos, como: económicos, sociales, de infraestructura, ambientales.
+-   Diseño e implementación para intervenir conjuntamente la sociedad civil, las entidades privadas y las instancias gubernamentales, en sus distintos niveles, para solucionar problemas de diferentes tipos, como: económicos, sociales, de infraestructura, ambientales.
 
-- La articulación de esfuerzos con financiación y asignación de recursos, por parte de los responsables de poner en marcha las políticas públicas.
+-   La articulación de esfuerzos con financiación y asignación de recursos, por parte de los responsables de poner en marcha las políticas públicas.
 
-- Diseño participativo de las políticas para que no sean aisladas y permitan lograr al resultado esperado. 
+-   Diseño participativo de las políticas para que no sean aisladas y permitan lograr al resultado esperado.
 
-- Medición de impacto de las políticas.
+-   Medición de impacto de las políticas.
 
 ### Generar tejido social
 
-- Generación de procesos de movilidad social. 
+-   Generación de procesos de movilidad social.
 
-- Buscar la solidez de la solidaridad básica como la familia, los amigos y el barrio.
+-   Buscar la solidez de la solidaridad básica como la familia, los amigos y el barrio.
 
-- Generar la fuerza de sentimiento de compromiso para mejora de las condiciones de seguridad y convivencia.
+-   Generar la fuerza de sentimiento de compromiso para mejora de las condiciones de seguridad y convivencia.
 
-- Inclusión de los jóvenes vulnerables en los procesos sociales para alejarlos de la criminalidad.
+-   Inclusión de los jóvenes vulnerables en los procesos sociales para alejarlos de la criminalidad.
 
-- Vinculación de la empresa privada en la solución de problemáticas.
+-   Vinculación de la empresa privada en la solución de problemáticas.
 
-- Fortalecer la protección de los derechos a las comunidades autóctonas en materia de propiedad colectiva de la tierra, la representación política específica, el plurilingüismo, la justicia consuetudinaria o indígena.
+-   Fortalecer la protección de los derechos a las comunidades autóctonas en materia de propiedad colectiva de la tierra, la representación política específica, el plurilingüismo, la justicia consuetudinaria o indígena.
 
-- Respeto e integración de la pluriculturalidad y atienda las necesidades particulares de esas comunidades.
+-   Respeto e integración de la pluriculturalidad y atienda las necesidades particulares de esas comunidades.
 
 ### Planificación urbana y rural
 
-- Articulación del planeamiento urbano y rural realizado por las autoridades del orden local, regional y nacional con la seguridad.
+-   Articulación del planeamiento urbano y rural realizado por las autoridades del orden local, regional y nacional con la seguridad.
 
-- Anticipar o estimar los impactos en la seguridad ciudadana de los cambios en el uso del suelo, la creación de nuevas vías, sistemas de transporte, la autorización de construcciones de mayor altura o el cambio de sentido de una autopista, entre otros.
+-   Anticipar o estimar los impactos en la seguridad ciudadana de los cambios en el uso del suelo, la creación de nuevas vías, sistemas de transporte, la autorización de construcciones de mayor altura o el cambio de sentido de una autopista, entre otros.
 
 ### Control y disuación
 
-- Identificación de las cotas superiores e inferiores del delito por cada unidad territorial.
+-   Identificación de las cotas superiores e inferiores del delito por cada unidad territorial.
 
-- Involucrar ciudadanos y grupos sociales para la protección del territorio del delito, por ejemplo, frentes de seguridad ciudadana.
+-   Involucrar ciudadanos y grupos sociales para la protección del territorio del delito, por ejemplo, frentes de seguridad ciudadana.
 
-- Diseño de estrategias basadas policía de orientación comunitaria, policía orientada a la solución de problemas con el proceso SARA (escaneo, análisis, respuesta y evaluación), policía guiada por la inteligencia; y la estrategia de policía basada en incidentes.
+-   Diseño de estrategias basadas policía de orientación comunitaria, policía orientada a la solución de problemas con el proceso SARA (escaneo, análisis, respuesta y evaluación), policía guiada por la inteligencia; y la estrategia de policía basada en incidentes.
 
 ### Innovación local
 
-- Mejora de los estándares y procesos de calidad frente a la prestación de servicio de seguridad al ciudadano.
+-   Mejora de los estándares y procesos de calidad frente a la prestación de servicio de seguridad al ciudadano.
 
-- Creación de soluciones de base comunitaria, que nacen de la interacción de aquellos que poseen un problema y necesitan solucionarlo. 
+-   Creación de soluciones de base comunitaria, que nacen de la interacción de aquellos que poseen un problema y necesitan solucionarlo.
 
-- Impulso de soluciones basadas en la glocalidad “pensar globalmente, actuar localmente”.
+-   Impulso de soluciones basadas en la glocalidad "pensar globalmente, actuar localmente".
 
 ## PDH en la gestión de los cuerpos de policía
 
@@ -230,148 +230,243 @@ Cada cuerpo de policía tiene sus particularidades y realidad local, los siguien
 
 ### Procesos de prevención, disuasión y control del delito, inteligencia y policía judicial
 
-- Vincular en su misión a las partes interesadas, con una amplia participación en las decisiones, control y desarrollo de las actividades.
+-   Vincular en su misión a las partes interesadas, con una amplia participación en las decisiones, control y desarrollo de las actividades.
 
-- La trasparencia en los procedimientos policiales, donde el ciudadano los puede seguir y observar permanentemente.
+-   La trasparencia en los procedimientos policiales, donde el ciudadano los puede seguir y observar permanentemente.
 
-- Diseño de soluciones de mano inteligente, que privilegian la prevención y anticipación del delito.
+-   Diseño de soluciones de mano inteligente, que privilegian la prevención y anticipación del delito.
 
-- Atención inmediata en territorio de las necesidades básicas individuales en seguridad ciudadana.
+-   Atención inmediata en territorio de las necesidades básicas individuales en seguridad ciudadana.
 
 ### Análisis del entorno
 
-- Se identifican factores de contexto de tipo Político, Económico, Social, Tecnológico y Ambiental –PESTA–, que están fuera del control de la policía y se le suma el factor Criminal (C) y el de la organización policial (P), así: PESTA+CP.
+-   Se identifican factores de contexto de tipo Político, Económico, Social, Tecnológico y Ambiental --PESTA--, que están fuera del control de la policía y se le suma el factor Criminal (C) y el de la organización policial (P), así: PESTA+CP.
 
-- Analizar los cambios y nuevos retos en seguridad ciudadana, inclusive con la prevención, atención y resiliencia de las crisis de factores que afectan la convivencia y que ponen en peligro el desarrollo normal del Estado de Derecho.
+-   Analizar los cambios y nuevos retos en seguridad ciudadana, inclusive con la prevención, atención y resiliencia de las crisis de factores que afectan la convivencia y que ponen en peligro el desarrollo normal del Estado de Derecho.
 
 ### Medición de resultados
 
-- Los indicadores policiales deben enfocarse en medir el impacto de la solución de las causas estructurales de la violencia y el delito en el contexto local, en las estadísticas de capturas, recuperaciones, incautaciones, etc, y las afectaciones a la convivencia.
+-   Los indicadores policiales deben enfocarse en medir el impacto de la solución de las causas estructurales de la violencia y el delito en el contexto local, en las estadísticas de capturas, recuperaciones, incautaciones, etc, y las afectaciones a la convivencia.
 
-- Evaluación de la efectividad para verificar el funcionamiento del modelo de evaluación integral y hacerlo incluyente de los diferentes actores (comunidad, empresas, autoridades) y partes interesadas (comunidad internacional, las ONG) tanto a los resultados, como a los responsables de generar estos.
+-   Evaluación de la efectividad para verificar el funcionamiento del modelo de evaluación integral y hacerlo incluyente de los diferentes actores (comunidad, empresas, autoridades) y partes interesadas (comunidad internacional, las ONG) tanto a los resultados, como a los responsables de generar estos.
 
-- Los indicadores miden la implementación de las estrategias y las consecuencias perdurables, con el objetivo de lograr una mayor proximidad con la comunidad. 
+-   Los indicadores miden la implementación de las estrategias y las consecuencias perdurables, con el objetivo de lograr una mayor proximidad con la comunidad.
 
-- Los indicadores miden la percepción ciudadana respecto de acciones policiales y desempeño policial, por ejemplo, los provenientes de encuestas de victimización y percepciones de seguridad. 
+-   Los indicadores miden la percepción ciudadana respecto de acciones policiales y desempeño policial, por ejemplo, los provenientes de encuestas de victimización y percepciones de seguridad.
 
-- Se identifica y mide la brecha entre la expectativa y la realidad con respecto al accionar policial y la percepción sobre la calidad del servicio efectivamente entregado al público.
+-   Se identifica y mide la brecha entre la expectativa y la realidad con respecto al accionar policial y la percepción sobre la calidad del servicio efectivamente entregado al público.
 
 ### Control de externalidades
 
-- Identificar los efectos indirectos no compensados, que producen el servicio de policía, por ejemplo, mayor población flotante por una nueva unidad policial.
+-   Identificar los efectos indirectos no compensados, que producen el servicio de policía, por ejemplo, mayor población flotante por una nueva unidad policial.
 
-- Acciones para externalidades positivas: cuando los efectos de las actividades policiales mejoran, de alguna manera, las oportunidades de la comunidad.
+-   Acciones para externalidades positivas: cuando los efectos de las actividades policiales mejoran, de alguna manera, las oportunidades de la comunidad.
 
-- Acciones para las externalidades negativas: cuando los efectos de las actividades policiales son nocivas para la comunidad.
+-   Acciones para las externalidades negativas: cuando los efectos de las actividades policiales son nocivas para la comunidad.
 
-- Acciones para la externalidad posicional: relacionado con el uso inadecuado o derroche de recursos personales, sociales y tiempo, que no genera un impacto óptimo en la comunidad, ni mejora la imagen de la policía.
+-   Acciones para la externalidad posicional: relacionado con el uso inadecuado o derroche de recursos personales, sociales y tiempo, que no genera un impacto óptimo en la comunidad, ni mejora la imagen de la policía.
 
 ### Tecnología, movilidad e infraestructura
 
-- Implementar el uso de herramientas del servicio en materia de infraestructura, sistemas de información, comunicaciones, movilidad, robots, sistemas de video vigilancia, modelamiento y simulación, análisis de datos, sistemas de información geográfica, internet, entre otros.
+-   Implementar el uso de herramientas del servicio en materia de infraestructura, sistemas de información, comunicaciones, movilidad, robots, sistemas de video vigilancia, modelamiento y simulación, análisis de datos, sistemas de información geográfica, internet, entre otros.
 
-- Disponer el uso de herramientas tecnológicas para el ciudadano, por ejemplo las denuncias online o la revisión de antecedentes.
+-   Disponer el uso de herramientas tecnológicas para el ciudadano, por ejemplo las denuncias online o la revisión de antecedentes.
 
 ### Sistemas de gestión y calidad
 
-- Aplicación de los modelos de gestión y certificaciones de calidad en el servicio de policía.
+-   Aplicación de los modelos de gestión y certificaciones de calidad en el servicio de policía.
 
-- Propuesta de cambio y mejora en los procesos, procedimientos, guías entre otros.
+-   Propuesta de cambio y mejora en los procesos, procedimientos, guías entre otros.
 
-- Generación de documentos doctrinales como manuales, reglamentos, etc.
+-   Generación de documentos doctrinales como manuales, reglamentos, etc.
 
 ### Profesionalización
 
-- Gestión del conocimiento: es la generación y apropiación del cono- cimiento mediante la construcción colectiva, que puede ser utilizado por parte de los policiales en el servicio.
+-   Gestión del conocimiento: es la generación y apropiación del cono- cimiento mediante la construcción colectiva, que puede ser utilizado por parte de los policiales en el servicio.
 
-- Formación, entrenamiento y capacitación: cursos, seminarios, diplomados, pregrados y posgrados, así como momentos de discusión que fortalezcan la doctrina policial y las ciencias de policía.
+-   Formación, entrenamiento y capacitación: cursos, seminarios, diplomados, pregrados y posgrados, así como momentos de discusión que fortalezcan la doctrina policial y las ciencias de policía.
 
-- Perfiles y competencias: es la articulación del ser (principios y valores éticos), saber (conocimiento) y saber hacer (experiencia) para los diferentes cargos y servicios que los policías ocupan.
+-   Perfiles y competencias: es la articulación del ser (principios y valores éticos), saber (conocimiento) y saber hacer (experiencia) para los diferentes cargos y servicios que los policías ocupan.
 
-- Transferencia de conocimiento: es la capacidad del cuerpo de policía, para integrar a su gestión y divulgar el conocimiento organizacional a los nuevos y antiguos policías, a la sociedad y a las autoridades políticas.
+-   Transferencia de conocimiento: es la capacidad del cuerpo de policía, para integrar a su gestión y divulgar el conocimiento organizacional a los nuevos y antiguos policías, a la sociedad y a las autoridades políticas.
 
 ### Relaciones con la comunidad
 
-- Participación ciudadana en las decisiones con el fin de integrar las preguntas, quejas, reclamos y sugerencias en la gestión de la organización, pero no solo para dar repuesta al ciudadano, sino con insumo para la toma de decisiones policiales de corto, mediano y largo plazo.
+-   Participación ciudadana en las decisiones con el fin de integrar las preguntas, quejas, reclamos y sugerencias en la gestión de la organización, pero no solo para dar repuesta al ciudadano, sino con insumo para la toma de decisiones policiales de corto, mediano y largo plazo.
 
-- Cocreación: como es tenida en cuenta la comunidad en el diseño de soluciones a las necesidades y situaciones que van apareciendo.
+-   Cocreación: como es tenida en cuenta la comunidad en el diseño de soluciones a las necesidades y situaciones que van apareciendo.
 
 ### Prevención y anticipación del delito
 
-- Acciones planeadas en el corto y mediano para organizar el servicio de policía según los requerimientos ciudadanos y los análisis delictivos.
+-   Acciones planeadas en el corto y mediano para organizar el servicio de policía según los requerimientos ciudadanos y los análisis delictivos.
 
-- Despliegue de la oferta de prevención por cada delito.
+-   Despliegue de la oferta de prevención por cada delito.
 
-- Aplicación oportuna de normas de convivencia.
+-   Aplicación oportuna de normas de convivencia.
 
 ### Autonomía local
 
-- Atender las necesidades básicas, insatisfechas de seguridad ciudadana, en pequeñas microterritorios multicrimen.
+-   Atender las necesidades básicas, insatisfechas de seguridad ciudadana, en pequeñas microterritorios multicrimen.
 
-- Establecer metas a nivel territorial de tasas delictivas y ocurrencia de delitos.
+-   Establecer metas a nivel territorial de tasas delictivas y ocurrencia de delitos.
 
-- Alineación de metas con los planes de desarrollo locales.
+-   Alineación de metas con los planes de desarrollo locales.
 
-- Gestión de recursos y financiación en lo local de las estrategias de seguridad y convivencia.
+-   Gestión de recursos y financiación en lo local de las estrategias de seguridad y convivencia.
 
 ### Cultura y comunicaciones
 
-- Gestionar los mensajes, imágenes y textos, cuyo efecto si contribuye a moldear subjetividades.
+-   Gestionar los mensajes, imágenes y textos, cuyo efecto si contribuye a moldear subjetividades.
 
-- Generar comunicación a través de mensajes, imágenes, videos y textos, para llegar acertadamente a la ciudadanía.
+-   Generar comunicación a través de mensajes, imágenes, videos y textos, para llegar acertadamente a la ciudadanía.
 
-- Construir una legitimidad del cuerpo de policía para afectar positivamente, los resultados y las relaciones con la comunidad.
+-   Construir una legitimidad del cuerpo de policía para afectar positivamente, los resultados y las relaciones con la comunidad.
 
-- Evaluar la evolución de cambio, por ejemplo, encuestas de percepción de la policía.
+-   Evaluar la evolución de cambio, por ejemplo, encuestas de percepción de la policía.
 
-- Estrategias de comunicación interna, que permita concientizar a la mujer y hombre policía de la importancia de su labor frente a la mejora del desarrollo humano de la comunidad.
+-   Estrategias de comunicación interna, que permita concientizar a la mujer y hombre policía de la importancia de su labor frente a la mejora del desarrollo humano de la comunidad.
 
-- Disminuir la resistencia a las actividades de control del servicio de policía.
+-   Disminuir la resistencia a las actividades de control del servicio de policía.
 
 ### Políticas organizacionales
 
-- Articular las políticas gubernamentales con las institucionales.
+-   Articular las políticas gubernamentales con las institucionales.
 
-- Aplicar las políticas del nivel central, de forma sostenible, constante y cubrir las diferentes áreas del cuerpo de policía, por ejemplo, política de ubicación laboral.
+-   Aplicar las políticas del nivel central, de forma sostenible, constante y cubrir las diferentes áreas del cuerpo de policía, por ejemplo, política de ubicación laboral.
 
 ### Liderazgo policial
 
-- Buscar situaciones de no confrontación con los ciudadanos.
+-   Buscar situaciones de no confrontación con los ciudadanos.
 
-- Fomentar el relacionamiento, como la capacidad institucional, que permite vincular positiva y críticamente a las personas al servicio de policía.
+-   Fomentar el relacionamiento, como la capacidad institucional, que permite vincular positiva y críticamente a las personas al servicio de policía.
 
-- Motivar a los ciudadanos organizados -integrantes de juntas o comités zonales- y no organizados -ciudadanos de a pie- a participar en las actividades de la policía, como también en los medios de comunicación y redes sociales. 
+-   Motivar a los ciudadanos organizados -integrantes de juntas o comités zonales- y no organizados -ciudadanos de a pie- a participar en las actividades de la policía, como también en los medios de comunicación y redes sociales.
 
-- Realizar Alianzas Público Privadas –APP–. En este entendido, se debe vincular el sector privado en la creación conjunta de seguridad con los ciudadanos y la policía.
+-   Realizar Alianzas Público Privadas --APP--. En este entendido, se debe vincular el sector privado en la creación conjunta de seguridad con los ciudadanos y la policía.
 
 ### Autocontrol
 
-- Identificar las áreas de mejora y fallas en el servicio de policía.
+-   Identificar las áreas de mejora y fallas en el servicio de policía.
 
-- Acciones en contra de la corrupción.
+-   Acciones en contra de la corrupción.
 
-- Control en la mejora de prestación del servicio de policía
+-   Control en la mejora de prestación del servicio de policía
 
-- Fomentar el autocontrol personal en los procedimientos.
+-   Fomentar el autocontrol personal en los procedimientos.
 
 ### Respuesta ante las crisis
 
-- Planear las acciones antes, durante y después de una crisis.
+-   Planear las acciones antes, durante y después de una crisis.
 
-- Facilitar las condiciones necesarias de seguridad ciudadana, para el desarrollo humano en cada una de las etapas de la crisis.
+-   Facilitar las condiciones necesarias de seguridad ciudadana, para el desarrollo humano en cada una de las etapas de la crisis.
 
-- Durante un escenario de crisis, buscar primordialmente la protección de la población y el mantenimiento o restablecimiento del Estado de Derecho. 
+-   Durante un escenario de crisis, buscar primordialmente la protección de la población y el mantenimiento o restablecimiento del Estado de Derecho.
 
 ### Respeto de los derechos humanos
 
-- Actividades de promoción y difusión de los derechos humanos.
+-   Actividades de promoción y difusión de los derechos humanos.
 
-- Acciones para mantener la disciplina.
+-   Acciones para mantener la disciplina.
 
-- Facilitar la denuncia contra funcionarios.
+-   Facilitar la denuncia contra funcionarios.
 
-- Capacitación en derechos humanos.
+-   Capacitación en derechos humanos.
 
-- Validación de procedimientos por parte del ministerio público.
+-   Validación de procedimientos por parte del ministerio público.
 
-- Comunicación con organizaciones protectoras de derechos humanos.
+-   Comunicación con organizaciones protectoras de derechos humanos.
+
+## PDH para la sofisticación y violencia del crimen organizado
+
+Todos los delitos ocurren en circunstancias de modo, tiempo y lugar diferentes, pero cada delincuente u organización criminal tiene un nivel de conocimiento y experticia que determina la complejidad y sofisticación; en el mismo sentido, la violencia ejercida para cometer un delito es diferente en cada caso, así como las secuelas en las personas, estas se pueden interpretar como la violencia afecta el normal transcurrir de la vida.
+
+Por ello, como se dijo, no se pueden considerar que todos los delincuentes son iguales, que el daño a la sociedad sea el mismo y que en las estadísticas operativas policiales sumen igual.
+
+Según lo anterior, y sin querer entrar en el ámbito penal sino en términos policiales, se proponen escalas de sofisticación criminal y de violencia, para orientar los esfuerzos de la PDH, con el fin capturar los criminales más sofisticados y violentos; el sistema judicial se encargara de establecer los tipos penales.
+
+### Variables de la sofisticación criminal
+
+Se propone una escala de cinco niveles, en el que es el menos sofisticado y cinco el más sofisticado, para ello se tendrá en cuenta variables de complejidad, así:
+
+**Adaptación de tecnología:** relacionado con las innovaciones tecnológicas usadas para la actividad criminal.
+
+**Conocimiento de la actividad criminal:** experiencia en la realización y planeación de delitos.
+
+**Gestión organizacional:** el diseño de metas, creación de una estructura criminal, vinculación de personal, diseño de procesos y financiamiento de las actividades criminales.
+
+**Capacidad para eludir la captura:** relacionada con la for- ma de escapar de la actuación policial, la investigación criminal, y la utilización de herramientas jurídicas para cuando se es capturado; al igual que la utilización de la corrupción para tales fines.
+
+**Adaptación de otras actividades criminales:** en este se considera la diversificación del portafolio criminal, pues al sofisticarse tiene más poder criminal y económico, y esto requiere vincular otras actividades criminales.
+
+**Impacto en la seguridad objetiva:** la incidencia en los indicado- res de seguridad ciudadana y su participación en el número de delitos.
+
+**Impacto en la seguridad subjetiva:** las actividades criminales inciden en la percepción de seguridad y en la cooperación con las autoridades, también si estas actividades producen desplazamientos y cambios de rutinas.
+
+### Escala de sofisticación criminal
+
+Se aspira que la escala permita clasificar a los delincuentes que se persiguen, diseñar tácticas para su captura y priorizar aquellos que la comunidad requiere; puede ocurrir que un delincuente tenga variables de complejidad de diferentes niveles, lo cual permitirá un análisis más apropiado para orientar la labor policial.
+
+A continuación se presentará la escala de cinco niveles de sofisticación criminal, así:
+
+#### Nivel 1. Redes inexpertas
+
+En este nivel, el crimen es una opción sea cual sea la motivación, sin conocer ampliamente cómo se mueve el mundo criminal, los riesgos, ventajas y desventajas; se decide cometer crímenes, puede hacerse como "propio negocio" al sirviendo de otro. Igualmente, incluyen los criminales circunstanciales que solo cometieron algún crimen de manera esporádica y no reinciden sistemáticamente (berniell, 2014); desde este nivel, se focaliza en la persona y su evolución en su carrera criminal, pero no desde la perspectiva del fenómeno criminal.
+
++--------------------------------------------+---------------------------------------------------------------------------------+
+| Variables de sofisticación                 | Características                                                                 |
++============================================+=================================================================================+
+| Adaptación de tecnología                   | -   Uso escaso de la tecnología                                                 |
+|                                            |                                                                                 |
+|                                            | ```{=html}                                                                      |
+|                                            | <!-- -->                                                                        |
+|                                            | ```                                                                             |
+|                                            | -   Utiliza principalmente su cuerpo y estado físico para los crímenes          |
+|                                            |                                                                                 |
+|                                            | -   Aprovecha el factor sorpresa principalmente                                 |
++--------------------------------------------+---------------------------------------------------------------------------------+
+| Conocimiento de la actividad criminal      | -   Se inicia a delinquir                                                       |
+|                                            |                                                                                 |
+|                                            | -   Etapa de descubriendo del mundo criminal                                    |
+|                                            |                                                                                 |
+|                                            | -   Identificación de ventajas y oportunidades propias                          |
+|                                            |                                                                                 |
+|                                            | -   No tiene una actividad criminal definida                                    |
++--------------------------------------------+---------------------------------------------------------------------------------+
+| Gestión organizacional                     | -   Poco personal participa en las actividades                                  |
+|                                            |                                                                                 |
+|                                            | -   Contactos muy limitados a los que acudir para realizar los delitos.         |
+|                                            |                                                                                 |
+|                                            | -   No tiene una estructura para gestionar los crímenes.                        |
+|                                            |                                                                                 |
+|                                            | -   No posee metas y objetivos criminales.                                      |
++--------------------------------------------+---------------------------------------------------------------------------------+
+| Capacidad para eludir la captura           | -   Fácil de identificar y detener por las autoridades                          |
+|                                            |                                                                                 |
+|                                            | -   Puede ser detenido en flagrancia                                            |
+|                                            |                                                                                 |
+|                                            | -   Desconoce cómo evitar el accionar policial                                  |
++--------------------------------------------+---------------------------------------------------------------------------------+
+| Adaptación de otras actividades criminales | -   Realiza una única actividad criminal                                        |
+|                                            |                                                                                 |
+|                                            | -   No tiene la capacidad para adaptar otras                                    |
+|                                            |                                                                                 |
+|                                            | -   Desconoce que otras actividades criminales puede adaptar                    |
++--------------------------------------------+---------------------------------------------------------------------------------+
+| Impacto en la seguridad objetiva           | -   No tiene participación porcentual en los indicadores de seguridad 	ciudadana |
+|                                            |                                                                                 |
+|                                            | -   Los delitos son cometidos muy esporádicamente                               |
+|                                            |                                                                                 |
+|                                            | -   Por el tipo de delito y la cuantía se instauran pocas denuncias             |
+|                                            |                                                                                 |
+|                                            | -   Su zona de actuar se da como un punto caliente                              |
++--------------------------------------------+---------------------------------------------------------------------------------+
+| Impacto en la seguridad subjetiva          | -   Afecta a un grupo pequeño de personas                                       |
+|                                            |                                                                                 |
+|                                            | -   Baja incidencia en la percepción de seguridad en una zona.                  |
+|                                            |                                                                                 |
+|                                            | -   Baja influencia en las encuestas de victimización.                          |
+|                                            |                                                                                 |
+|                                            | -   No son delincuentes reconocidos o temidos                                   |
++--------------------------------------------+---------------------------------------------------------------------------------+
+
+: Característica red criminal inexperta

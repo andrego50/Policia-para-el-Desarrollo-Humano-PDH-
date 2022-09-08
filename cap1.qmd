@@ -58,6 +58,8 @@ El delito definido como el daño en el desarrollo evolutivo que se produce por u
 
 ## Causas estructurales de la violencia y el delito
 
+Como lo define el Semillero de Gestión Pública de la Universidad del Rosario, son situaciones históricas que han trascendido en el tiempo y se encuentran inmersas implícitamente en la sociedad y generan en cierto modo algún tipo de violencia o delito. Estas pueden aparecer desde estructuras sociales, económicas, políticas, legales, religiosas y culturales, que pueden llegar a limitar el desarrollo de las capacidades de los individuos en la sociedad, convirtiéndose en un tipo de violencia.
+
 A continuación, se explican cuáles son las causas más relevantes de la violencia y el delito en América Latina y el Caribe (ALC), que obran en diversos ámbitos de la vida social y de interacción comunitaria, porque al desaparecer la causa que induce a los hombres a abusar de sus libertades, desaparecerá el motivo que provoca tantas y tan antipáticas intervenciones de la policía (LLERAS, 2009), lo que significa un enfoque hacia la prevención que hacia el control.
 
 Las causas son extraídas de diferentes informes de desarrollo humano de ALC para que estas permitan orientar las estrategias hacia el contexto local, el Informe de Desarrollo Humano de Centro América es una fuente importante de consulta.
@@ -172,51 +174,51 @@ Según Robert Merton (1957), citado en el informe, desarrollo humano de América
 
 Los ciudadanos tendrán más incentivos de respetar las leyes establecidas, si consideran que su aplicación es justa, proporcional al delito, y respetuosa de los derechos humanos y del Estado de Derecho, pero los Estados tienen debilidades para proveer seguridad ciudadana. Una de las principales vulnerabilidades es la corrupción que fue analizada anteriormente; por ello, se explicarán la impunidad y la falta de proporcionalidad en el castigo.
 
-#### Impunidad
+#### Impunidad, desconfianza generalizada y tasa de no denuncia.
 
 Aunque ningún país del mundo resuelve todos los crimines ni castiga a todos los delincuentes, hay un umbral mínimo para que en la ciudadanía no se cree una confianza generalizada, el temor o, incluso, el rechazo hacia la ley. Cuanto más grave el delito mayor debería ser la probabilidad de ser castigado, la cifra oculta es la tasa de no denuncia que se refleja en las encuestas de victimización (PNUD, 2013). Asimismo, esta cifra demuestra la confianza que tiene la comunidad en sus autoridades que, va en la denuncia como principal vehículo para llegar a la justicia.
 
-#### Falta de proporcionalidad en el castigo
+#### Falta de proporcionalidad en el castigo y concentración en personas fáciles de detener.
 
 Todo castigo debe ser proporcional a la gravedad del delito. Elena AZAOLA, Marcelo BERGAM y de acuerdo a lo citado en el Informe de Desarrollo Humano (2013), para América Latina, explican que el problema es que las policías, los fiscales y los jueces tienden a concertarse en la detención y en la sanción de personas que son fáciles de detener, en vez de hacerlo con criminales organizados que requieren mayor labor de inteligencia y coordinación interinstitucional.
 
-+----------------------------------+--------------------------------------------------+
-| Causa estructural                | Factor                                           |
-+==================================+==================================================+
-| Inseguridades invisibles         | -   Discriminación                               |
-|                                  |                                                  |
-|                                  | -   Jóvenes y niños excluidos                    |
-|                                  |                                                  |
-|                                  | -   Violencia contra las mujeres                 |
-+----------------------------------+--------------------------------------------------+
-| Corrupción                       | -   Poderes fácticos                             |
-|                                  |                                                  |
-|                                  | -   Grandes desfalcos                            |
-|                                  |                                                  |
-|                                  | -   Corrupción gris                              |
-|                                  |                                                  |
-|                                  | -   Penetración del crimen organizado            |
-+----------------------------------+--------------------------------------------------+
-| Impacto de la globalización      | -   Económica                                    |
-|                                  |                                                  |
-|                                  | -   Política                                     |
-|                                  |                                                  |
-|                                  | -   Cultural                                     |
-+----------------------------------+--------------------------------------------------+
-| Desajustes internos              | -   Semillero                                    |
-|                                  |                                                  |
-|                                  | -   Ocasión                                      |
-|                                  |                                                  |
-|                                  | -   Contexto                                     |
-+----------------------------------+--------------------------------------------------+
-| Factores socio económicos        | -   Pobreza, desigualdad del ingreso y desempleo |
-|                                  |                                                  |
-|                                  | -   Delitos aspiracional                         |
-+----------------------------------+--------------------------------------------------+
-| Vulnerabilidades institucionales | -   Impunidad                                    |
-|                                  |                                                  |
-|                                  | -   Falta de proporcionalidad en el castigo      |
-+----------------------------------+--------------------------------------------------+
++----------------------------------+--------------------------------------------------------------------------------------------+
+| Causa estructural                | Factor                                                                                     |
++==================================+============================================================================================+
+| Inseguridades invisibles         | -   Discriminación                                                                         |
+|                                  |                                                                                            |
+|                                  | -   Jóvenes y niños excluidos                                                              |
+|                                  |                                                                                            |
+|                                  | -   Violencia contra las mujeres                                                           |
++----------------------------------+--------------------------------------------------------------------------------------------+
+| Corrupción                       | -   Poderes fácticos                                                                       |
+|                                  |                                                                                            |
+|                                  | -   Grandes desfalcos                                                                      |
+|                                  |                                                                                            |
+|                                  | -   Corrupción gris                                                                        |
+|                                  |                                                                                            |
+|                                  | -   Penetración del crimen organizado                                                      |
++----------------------------------+--------------------------------------------------------------------------------------------+
+| Impacto de la globalización      | -   Económica                                                                              |
+|                                  |                                                                                            |
+|                                  | -   Política                                                                               |
+|                                  |                                                                                            |
+|                                  | -   Cultural                                                                               |
++----------------------------------+--------------------------------------------------------------------------------------------+
+| Desajustes internos              | -   Semillero                                                                              |
+|                                  |                                                                                            |
+|                                  | -   Ocasión                                                                                |
+|                                  |                                                                                            |
+|                                  | -   Contexto                                                                               |
++----------------------------------+--------------------------------------------------------------------------------------------+
+| Factores socio económicos        | -   Pobreza, desigualdad del ingreso y desempleo                                           |
+|                                  |                                                                                            |
+|                                  | -   Delito aspiracional                                                                   |
++----------------------------------+--------------------------------------------------------------------------------------------+
+| Vulnerabilidades institucionales | -   Impunidad, desconfianza generalizada y tasa de no denuncia                             |
+|                                  |                                                                                            |
+|                                  | -   Falta de proporcionalidad en el castigo y concentración en personas fáciles de detener |
++----------------------------------+--------------------------------------------------------------------------------------------+
 
 : Causas estructurales de la violencia y el delito
 
@@ -258,16 +260,16 @@ Desde la perpectiva de la seguridad humana, en su dimesnión de seguridad person
 
 Actualmente, la inseguridad debe integrar, entre sus prioridades, el impacto del crimen organizado, transnacional, en la seguridad ciudadana local de ALC, como D. Luz, indica que por su capacidad corruptora, por su relación con el tráfico de drogas y por su capacidad de violencia, en particular a través del tráfico de armas, en américa latina y el caribe.
 
-Las falencias en la reducción de las causas estructurales de la violencia y el delito generan la inseguridad, que es la principal amenaza para la estabilidad, el fortalecimiento democrático y las posibilidades de desarrollo humano (Secretaría General OEA, 2008), así mismo, la seguridad permite la ampliación de opciones de vida y libertad efectiva de las personas, independientemente de sus circunstancias (PNUD, 2009). La preocupación por la seguridad se ha  convertido en uno de los principales motores de transformación de las ciudades latinoamericanas, causado por los pobres resultados en el control de  la violencia y el delito, pues deja de lado los efectos reales de las políticas de seguridad a la seguritización (sAntillán, 2012), y recuerda que la región de América Latina y el Caribe posee unos índices de violencia bastante elevados.
+Las falencias en la reducción de las causas estructurales de la violencia y el delito generan la inseguridad, que es la principal amenaza para la estabilidad, el fortalecimiento democrático y las posibilidades de desarrollo humano (Secretaría General OEA, 2008), así mismo, la seguridad permite la ampliación de opciones de vida y libertad efectiva de las personas, independientemente de sus circunstancias (PNUD, 2009). La preocupación por la seguridad se ha convertido en uno de los principales motores de transformación de las ciudades latinoamericanas, causado por los pobres resultados en el control de la violencia y el delito, pues deja de lado los efectos reales de las políticas de seguridad a la seguritización (sAntillán, 2012), y recuerda que la región de América Latina y el Caribe posee unos índices de violencia bastante elevados.
 
 La mano dura, puede ser entendida como una estrategia represiva de la seguridad ciudadana; y la seguritización, expresa que los problemas sociales, deben ser atendidos desde un ámbito de las políticas e instituciones de seguridad, y dejando de lado la causa social que las genera. Como lo expresa sAntillán (2012), son diversas tácticas de control del delito legitimadas en tanto están orientadas a producir seguridad, bajo esta lógica, la seguridad se entiende como un fin en sí misma que esta incluso por encima de los derechos, se puede relacionar la idea del intercambio de libertades por seguridad relacionado en el informe de desarrollo humano del Caribe. Así mismo la seguritización convierte los problemas sociales en problemas de seguridad, por ejemplo: en el narcotráfico de estupefacientes, todavía prima la concepción de un problema de seguridad, antes que pudiese ser un problema de salud pública o de educación.
 
-Dentro de los cambios, identificados por Santillán, relacionados con la seguritización, se encuentran: la recuperación de espacios a través de la renovación urbana, que desplazan la delincuencia hacia otros lugares; la oferta inmobiliaria hacia conjuntos y barrios cerrados, llamado el “amurallamiento urbano”; y el control territorial a través de militares y grupos policiales, especializados, debido a la alta inseguridad. 
+Dentro de los cambios, identificados por Santillán, relacionados con la seguritización, se encuentran: la recuperación de espacios a través de la renovación urbana, que desplazan la delincuencia hacia otros lugares; la oferta inmobiliaria hacia conjuntos y barrios cerrados, llamado el "amurallamiento urbano"; y el control territorial a través de militares y grupos policiales, especializados, debido a la alta inseguridad.
 
-También, han cambiado las formas de interacción social, debido a los comportamientos, de autoprotección y “evitamiento” que ocasionan cambios de rutina;  el desplazamiento urbano; aumento del “vigilantismo”, mediante brigadas barriales que utilizan la fuerza y violencia para su protección, y deslegitiman el monopolio del uso de la fuerza del Estado; y la estigmatización social, donde minorías étnicas, jóvenes o inmigrantes, son considerados la fuente de la inseguridad (sAntillán, 2012). Todo lo anterior se convierte en un abanico de opciones que evidencian la negligencia en la solución de problemas de seguridad ciudadana por parte de la política pública.
+También, han cambiado las formas de interacción social, debido a los comportamientos, de autoprotección y "evitamiento" que ocasionan cambios de rutina; el desplazamiento urbano; aumento del "vigilantismo", mediante brigadas barriales que utilizan la fuerza y violencia para su protección, y deslegitiman el monopolio del uso de la fuerza del Estado; y la estigmatización social, donde minorías étnicas, jóvenes o inmigrantes, son considerados la fuente de la inseguridad (sAntillán, 2012). Todo lo anterior se convierte en un abanico de opciones que evidencian la negligencia en la solución de problemas de seguridad ciudadana por parte de la política pública.
 
 Los cuerpos de policía son unos de los principales responsables de la operacionalización y articulación de las políticas públicas, para contrarrestar la (in)seguridad, esta última se puede clasificar en (PNUD, 2009):
 
-- Objetiva: usar los datos pasados, como el comportamiento estadístico, para proyectar el riesgo futuro, y se refleja el grado de seguridad o inseguridad.
+-   Objetiva: usar los datos pasados, como el comportamiento estadístico, para proyectar el riesgo futuro, y se refleja el grado de seguridad o inseguridad.
 
-- Subjetiva: es la percepción que cada persona tiene sobre el nivel de riesgo al que está expuesto, y es influida por varios factores racionales e irracionales, consientes e inconscientes, entre los cuales cabe mencionar: el temperamento, la experiencia, los prejuicios la información “objetiva” y las opiniones de los demás.
+-   Subjetiva: es la percepción que cada persona tiene sobre el nivel de riesgo al que está expuesto, y es influida por varios factores racionales e irracionales, consientes e inconscientes, entre los cuales cabe mencionar: el temperamento, la experiencia, los prejuicios la información "objetiva" y las opiniones de los demás.

@@ -1,4 +1,4 @@
-# Introducción
+# Introducción {.unnumbered}
 
 La agenda política en América Latina y el Caribe tiene entre sus prioridades la seguridad ciudadana como soporte del desarrollo humano, sin seguridad el desarrollo humano se reduce, aumenta la violencia y el delito, y todo sumado afecta negativamente otras variables o procesos económicos, sociales y políticos que desintegran el desarrollo en general y la condición y bienestar humano en especial como lo indica el [@hdr2009, pp. 29-31]. Esto quiere decir que sin condiciones necesarias en seguridad ciudadana no puede existir una mejora en la calidad de vida de las personas y en el desarrollo pleno de las capacidades personales.
 

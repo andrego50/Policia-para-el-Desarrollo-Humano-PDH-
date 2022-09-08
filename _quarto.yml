@@ -14,7 +14,9 @@ book:
     - cap3.qmd
     - summary.qmd
     - references.qmd
-
+    - apend1.qmd
+    - apend2.qmd
+    
 bibliography: references.bib
 
 format:
