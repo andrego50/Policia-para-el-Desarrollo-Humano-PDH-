@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 book:
-  title: "Policía para el Desarrollo Humano (PDH)"
+  title: "Guía de implementación de Policía para el Desarrollo Humano (PDH)"
   author: "Andrés Pérez Coronado"
   date: "9/3/2022"
   chapters:
@@ -13,6 +13,7 @@ book:
     - cap2.qmd
     - cap3.qmd
     - cap4.qmd
+    - cap5.qmd
     - summary.qmd
     - references.qmd
     - apend1.qmd

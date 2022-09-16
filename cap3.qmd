@@ -16,21 +16,21 @@ En la gráfica siguiente, se busca identificar las problemáticas según los ám
 
 ![Interacciones espaciales](images/interacciones_espaciales-01.png){fig-align="center"}
 
-**Interacción 1:** se puede generar en varias zonas locales y regionales, su impacto es local, regional, nacional y/o internacional; es la más compleja de las problemáticas, por ejemplo, la explotación sexual de niños, niñas y adolescentes.
+**Interacción 1 local-regional-nacional:** se puede generar en varias zonas locales y regionales, su impacto es local, regional, nacional y/o internacional; es la más compleja de las problemáticas, por ejemplo, la explotación sexual de niños, niñas y adolescentes.
 
-**Interacción 2:** se genera en varias zonas locales de una misma región y su impacto va hasta lo regional, por ejemplo, el abigeato.
+**Interacción 2 local-regional:** se genera en varias zonas locales de una misma región y su impacto va hasta lo regional, por ejemplo, el abigeato.
 
-**Interacción 3:** se genera en una zona local específica y su impacto es nacional, por ejemplo, falsificación de medicamentos.
+**Interacción 3 local-nacional:** se genera en una zona local específica y su impacto es nacional, por ejemplo, falsificación de medicamentos.
 
-**Interacción 4:** identificar la zona local donde se genera es difusa, entonces, se genera en varias zonas de una región y llega hasta el impacto nacional, por ejemplo, el tráfico de cocaína.
+**Interacción 4 regional-nacional:** identificar la zona local donde se genera es difusa, entonces, se genera en varias zonas de una región y llega hasta el impacto nacional, por ejemplo, el tráfico de cocaína.
 
-**Interacción 5:** se genera en lo local pero solo impacta allí mismo, por ejemplo, las lesiones personales por riña.
+**Interacción 5 local:** se genera en lo local pero solo impacta allí mismo, por ejemplo, las lesiones personales por riña.
 
-**Interacción 6:** se genera en varias zonas de región y su impacto se limita a esta misma, por ejemplo, el asalto a buses de servicio intermunicipal.
+**Interacción 6 regional:** se genera en varias zonas de región y su impacto se limita a esta misma, por ejemplo, el asalto a buses de servicio intermunicipal.
 
-**Interacción 7:** la zona local y regional donde se genera es difusa, su impacto es nacional y/o internacional, por ejemplo, la corrupción o el lavado de activos.
+**Interacción 7 nacional:** la zona local y regional donde se genera es difusa, su impacto es nacional y/o internacional, por ejemplo, la corrupción o el lavado de activos.
 
-**Interacción 8:** pueden ser generadas desde el interior del país con impacto a otros países, por ejemplo, el tráfico ilegal de oro en zonas fronterizas. También, aquellas que vienen del exterior al país, por ejemplo, ciberataques a los sistemas de información del Estado.
+**Interacción 8 internacional:** pueden ser generadas desde el interior del país con impacto a otros países, por ejemplo, el tráfico ilegal de oro en zonas fronterizas. También, aquellas que vienen del exterior al país, por ejemplo, ciberataques a los sistemas de información del Estado.
 
 En ALC no existe una comprensión profunda de las problemáticas subregionales, debiendo ser identificadas y comprendidas. Han existido avances desde la perspectiva de los cuerpos de policía, muestra de ello es la creación en el 2007 de la Comunidad de Policías de América (AMERIPOL), para combatir el crimen organizado trasnacional, en la actualidad se encuentra en el trabajo de identificación de problemáticas propias del continente.
 

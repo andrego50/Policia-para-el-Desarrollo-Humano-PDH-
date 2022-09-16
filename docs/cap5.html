@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.0.36">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+
+<title>Guía de implementación de Policía para el Desarrollo Humano (PDH) - 5&nbsp; Contrarrestar la sofisticación y violencia del crimen organizado</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+span.underline{text-decoration: underline;}
+div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+</style>
+
+
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="site_libs/quarto-nav/headroom.min.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="site_libs/quarto-search/fuse.min.js"></script>
+<script src="site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="./">
+<link href="./summary.html" rel="next">
+<link href="./cap4.html" rel="prev">
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="site_libs/quarto-html/anchor.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "sidebar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "start",
+  "type": "textbox",
+  "limit": 20,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit"
+  }
+}</script>
+
+
+</head>
+
+<body class="nav-sidebar floating">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Contrarrestar la sofisticación y violencia del crimen organizado</span></h1>
+      <button type="button" class="quarto-btn-toggle btn" aria-label="Show secondary navigation">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
+<!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation floating overflow-auto">
+    <div class="pt-lg-2 mt-2 text-left sidebar-header">
+    <div class="sidebar-title mb-0 py-0">
+      <a href="./">Guía de implementación de Policía para el Desarrollo Humano (PDH)</a> 
+    </div>
+      </div>
+      <div class="mt-2 flex-shrink-0 align-items-center">
+        <div class="sidebar-search">
+        <div id="quarto-search" class="" title="Search"></div>
+        </div>
+      </div>
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./index.html" class="sidebar-item-text sidebar-link">Prefacio</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./intro.html" class="sidebar-item-text sidebar-link">Introducción</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./cap1.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">1</span>&nbsp; <span class="chapter-title">Seguridad humana para el desarrollo humano</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./cap2.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">2</span>&nbsp; <span class="chapter-title">Fundamentos de la Policía para el Desarrollo Humano (PDH)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./cap3.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">3</span>&nbsp; <span class="chapter-title">Modelo Policía para el Desarrollo Humano (PDH)</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./cap4.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Contrarrestar la sofisticación y violencia del crimen organizado</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./cap5.html" class="sidebar-item-text sidebar-link active"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Contrarrestar la sofisticación y violencia del crimen organizado</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./summary.html" class="sidebar-item-text sidebar-link"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Summary</span></a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./references.html" class="sidebar-item-text sidebar-link">References</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./apend1.html" class="sidebar-item-text sidebar-link">Apéndice 1</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="./apend2.html" class="sidebar-item-text sidebar-link">Apéndice 2</a>
+  </div>
+</li>
+    </ul>
+    </div>
+</nav>
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#variables-de-la-sofisticación-criminal" id="toc-variables-de-la-sofisticación-criminal" class="nav-link active" data-scroll-target="#variables-de-la-sofisticación-criminal"> <span class="header-section-number">5.1</span> Variables de la sofisticación criminal</a></li>
+  <li><a href="#escala-de-sofisticación-criminal" id="toc-escala-de-sofisticación-criminal" class="nav-link" data-scroll-target="#escala-de-sofisticación-criminal"> <span class="header-section-number">5.2</span> Escala de sofisticación criminal</a>
+  <ul class="collapse">
+  <li><a href="#nivel-1.-redes-inexpertas" id="toc-nivel-1.-redes-inexpertas" class="nav-link" data-scroll-target="#nivel-1.-redes-inexpertas"> <span class="header-section-number">5.2.1</span> Nivel 1. Redes inexpertas</a></li>
+  <li><a href="#nivel-2.-redes-perseverantes" id="toc-nivel-2.-redes-perseverantes" class="nav-link" data-scroll-target="#nivel-2.-redes-perseverantes"> <span class="header-section-number">5.2.2</span> Nivel 2. Redes perseverantes</a></li>
+  <li><a href="#nivel-3.-redes-experimentadas" id="toc-nivel-3.-redes-experimentadas" class="nav-link" data-scroll-target="#nivel-3.-redes-experimentadas"> <span class="header-section-number">5.2.3</span> Nivel 3. Redes experimentadas</a></li>
+  <li><a href="#nivel-4.-redes-renovadoras" id="toc-nivel-4.-redes-renovadoras" class="nav-link" data-scroll-target="#nivel-4.-redes-renovadoras"> <span class="header-section-number">5.2.4</span> Nivel 4. Redes renovadoras</a></li>
+  <li><a href="#nivel-5.-redes-expertas" id="toc-nivel-5.-redes-expertas" class="nav-link" data-scroll-target="#nivel-5.-redes-expertas"> <span class="header-section-number">5.2.5</span> Nivel 5. Redes expertas</a></li>
+  </ul></li>
+  <li><a href="#escala-de-violencia-criminal" id="toc-escala-de-violencia-criminal" class="nav-link" data-scroll-target="#escala-de-violencia-criminal"> <span class="header-section-number">5.3</span> Escala de violencia criminal</a>
+  <ul class="collapse">
+  <li><a href="#severidad-y-frecuencia-de-la-violencia-criminal" id="toc-severidad-y-frecuencia-de-la-violencia-criminal" class="nav-link" data-scroll-target="#severidad-y-frecuencia-de-la-violencia-criminal"> <span class="header-section-number">5.3.1</span> Severidad y frecuencia de la violencia criminal</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content" id="quarto-document-content">
+
+<header id="title-block-header" class="quarto-title-block default">
+<div class="quarto-title">
+<h1 class="title d-none d-lg-block"><span class="chapter-number">5</span>&nbsp; <span class="chapter-title">Contrarrestar la sofisticación y violencia del crimen organizado</span></h1>
+</div>
+
+
+
+<div class="quarto-title-meta">
+
+    
+    
+  </div>
+  
+
+</header>
+
+<p>Todos los delitos ocurren en circunstancias de modo, tiempo y lugar diferentes, pero cada delincuente u organización criminal tiene un nivel de conocimiento y experticia que determina la complejidad y sofisticación; en el mismo sentido, la violencia ejercida para cometer un delito es diferente en cada caso, así como las secuelas en las personas, estas se pueden interpretar como la violencia afecta el normal transcurrir de la vida.</p>
+<p>Por ello, como se dijo, no se pueden considerar que todos los delincuentes son iguales, que el daño a la sociedad sea el mismo y que en las estadísticas operativas policiales sumen igual.</p>
+<p>Esto se puede explicar a través de redes criminales, que se entiende como un conjunto de nodos (actores criminales) y enlaces (relaciones entre ellos) que se encuentran en un conjunto de datos, cuyo principal objetivo es obtener dinero a través de actividades ilegales en un lugar geográfico.</p>
+<p>Según lo anterior, y sin querer entrar en el ámbito penal sino en términos policiales, se proponen escalas de sofisticación criminal y de violencia, para orientar los esfuerzos de la PDH, con el fin capturar los criminales más sofisticados y violentos dentro de una red criminal; el sistema judicial se encargara de establecer los tipos penales.</p>
+<section id="variables-de-la-sofisticación-criminal" class="level2" data-number="5.1">
+<h2 data-number="5.1" class="anchored" data-anchor-id="variables-de-la-sofisticación-criminal"><span class="header-section-number">5.1</span> Variables de la sofisticación criminal</h2>
+<p>Se propone una escala de cinco niveles, en el que es el menos sofisticado y cinco el más sofisticado, para ello se tendrá en cuenta variables de complejidad, así:</p>
+<p><strong>Adaptación de tecnología:</strong> relacionado con las innovaciones tecnológicas usadas para la actividad criminal.</p>
+<p><strong>Conocimiento de la actividad criminal:</strong> experiencia en la realización y planeación de delitos.</p>
+<p><strong>Gestión organizacional:</strong> el diseño de metas, creación de una estructura criminal, vinculación de personal, diseño de procesos y financiamiento de las actividades criminales.</p>
+<p><strong>Capacidad para eludir la captura:</strong> relacionada con la for- ma de escapar de la actuación policial, la investigación criminal, y la utilización de herramientas jurídicas para cuando se es capturado; al igual que la utilización de la corrupción para tales fines.</p>
+<p><strong>Adaptación de otras actividades criminales:</strong> en este se considera la diversificación del portafolio criminal, pues al sofisticarse tiene más poder criminal y económico, y esto requiere vincular otras actividades criminales.</p>
+<p><strong>Impacto en la seguridad objetiva:</strong> la incidencia en los indicado- res de seguridad ciudadana y su participación en el número de delitos.</p>
+<p><strong>Impacto en la seguridad subjetiva:</strong> las actividades criminales inciden en la percepción de seguridad y en la cooperación con las autoridades, también si estas actividades producen desplazamientos y cambios de rutinas.</p>
+</section>
+<section id="escala-de-sofisticación-criminal" class="level2" data-number="5.2">
+<h2 data-number="5.2" class="anchored" data-anchor-id="escala-de-sofisticación-criminal"><span class="header-section-number">5.2</span> Escala de sofisticación criminal</h2>
+<p>Se aspira que la escala permita clasificar a los delincuentes que se persiguen, diseñar tácticas para su captura y priorizar aquellos que la comunidad requiere; puede ocurrir que un delincuente tenga variables de complejidad de diferentes niveles, lo cual permitirá un análisis más apropiado para orientar la labor policial.</p>
+<p>A continuación se presentará la escala de cinco niveles de sofisticación criminal, estos niveles de las redes se identifican a través de aprendizaje no supervisado o métodos que permiten extraer información de los datos sin entrenar un modelo con datos etiquetados, es decir, no conocemos la respuesta.</p>
+<section id="nivel-1.-redes-inexpertas" class="level3" data-number="5.2.1">
+<h3 data-number="5.2.1" class="anchored" data-anchor-id="nivel-1.-redes-inexpertas"><span class="header-section-number">5.2.1</span> Nivel 1. Redes inexpertas</h3>
+<p>En este nivel, el crimen es una opción sea cual sea la motivación, sin conocer ampliamente cómo se mueve el mundo criminal, los riesgos, ventajas y desventajas; se decide cometer crímenes, puede hacerse como “propio negocio” al sirviendo de otro. Igualmente, incluyen los criminales circunstanciales que solo cometieron algún crimen de manera esporádica y no reinciden sistemáticamente (berniell, 2014); desde este nivel, se focaliza en la persona y su evolución en su carrera criminal, pero no desde la perspectiva del fenómeno criminal.</p>
+<table class="table">
+<caption>Característica red criminal inexperta</caption>
+<colgroup>
+<col style="width: 35%">
+<col style="width: 64%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Variables de sofisticación</th>
+<th>Características</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Adaptación de tecnología</td>
+<td><ul>
+<li>Uso escaso de la tecnología</li>
+</ul>
+<!-- -->
+<ul>
+<li><p>Utiliza principalmente su cuerpo y estado físico para los crímenes</p></li>
+<li><p>Aprovecha el factor sorpresa principalmente</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Conocimiento de la actividad criminal</td>
+<td><ul>
+<li><p>Se inicia a delinquir</p></li>
+<li><p>Etapa de descubriendo del mundo criminal</p></li>
+<li><p>Identificación de ventajas y oportunidades propias</p></li>
+<li><p>No tiene una actividad criminal definida</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Gestión organizacional</td>
+<td><ul>
+<li><p>Poco personal participa en las actividades</p></li>
+<li><p>Contactos muy limitados a los que acudir para realizar los delitos</p></li>
+<li><p>No tiene una estructura para gestionar los crímenes</p></li>
+<li><p>No posee metas y objetivos criminales</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Capacidad para eludir la captura</td>
+<td><ul>
+<li><p>Fácil de identificar y detener por las autoridades</p></li>
+<li><p>Puede ser detenido en flagrancia</p></li>
+<li><p>Desconoce cómo evitar el accionar policial</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Adaptación de otras actividades criminales</td>
+<td><ul>
+<li><p>Realiza una única actividad criminal</p></li>
+<li><p>No tiene la capacidad para adaptar otras</p></li>
+<li><p>Desconoce que otras actividades criminales puede adaptar</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Impacto en la seguridad objetiva</td>
+<td><ul>
+<li><p>No tiene participación porcentual en los indicadores de seguridad ciudadana</p></li>
+<li><p>Los delitos son cometidos muy esporádicamente</p></li>
+<li><p>Por el tipo de delito y la cuantía se instauran pocas denuncias</p></li>
+<li><p>Su zona de actuar se da como un punto caliente</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Impacto en la seguridad subjetiva</td>
+<td><ul>
+<li><p>Afecta a un grupo pequeño de personas</p></li>
+<li><p>Baja incidencia en la percepción de seguridad en una zona</p></li>
+<li><p>Baja influencia en las encuestas de victimización</p></li>
+<li><p>No son delincuentes reconocidos o temidos</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="nivel-2.-redes-perseverantes" class="level3" data-number="5.2.2">
+<h3 data-number="5.2.2" class="anchored" data-anchor-id="nivel-2.-redes-perseverantes"><span class="header-section-number">5.2.2</span> Nivel 2. Redes perseverantes</h3>
+<p>Desde este nivel, las personas reinciden sistemáticamente en la comisión de delitos y empiezan a ver la delincuencia como opción de vida; ya no son criminales circunstanciales y tienen una motivación personal y/o económica.</p>
+<table class="table">
+<caption>Característica red criminal perseverante</caption>
+<colgroup>
+<col style="width: 28%">
+<col style="width: 71%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Variables de sofisticación</th>
+<th>Características</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Adaptación de tecnología</td>
+<td><ul>
+<li>El delito es realizado con el uso de tecnología de fácil acceso</li>
+</ul>
+<!-- -->
+<ul>
+<li><p>Sabe cómo y donde adquirir la tecnología</p></li>
+<li><p>Conoce las limitaciones y daños que causa la misma</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Conocimiento de la actividad criminal</td>
+<td><ul>
+<li><p>Diseña planes simples</p></li>
+<li><p>Analiza la presencia policial</p></li>
+<li><p>Identifica las mejores zona para su actividad criminal</p></li>
+<li><p>Identifica las mejores víctimas</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Gestión organizacional</td>
+<td><ul>
+<li><p>Coordina actividades criminales con otros</p></li>
+<li><p>Posee contactos e informantes para llevar a cabo el crimen</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Capacidad para eludir la captura</td>
+<td><ul>
+<li><p>Prevé rutas de escape</p></li>
+<li><p>Tiene una historia preparada para las autoridades</p></li>
+<li><p>Captura en flagrancia más complicada</p></li>
+<li><p>Requiere una investigación criminal a corto plazo para su captura</p></li>
+<li><p>Inicia a tener nociones jurídicas un porqué puede ser capturado</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Adaptación de otras actividades criminales</td>
+<td><ul>
+<li><p>Identifica las actividades criminales acordes a su portafolio criminal</p></li>
+<li><p>Intimida a sus víctimas o las deja en situación de indefensión</p></li>
+<li><p>Comete diferentes delitos así no tengan conexión</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Impacto en la seguridad objetiva</td>
+<td><ul>
+<li><p>Afecta los indicadores de seguridad ciudadana de un pequeño sector o actividad criminal</p></li>
+<li><p>Se considera como alguien reconocido del sector o la actividad criminal</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Impacto en la seguridad subjetiva</td>
+<td><ul>
+<li><p>Las encuestas de victimización se ven afectadas en poco porcentaje en las zonas donde delinque</p></li>
+<li><p>Su estilo criminal está siendo conocido</p></li>
+<li><p>Inicia a efectuar rutinas como cambiar de ruta, los transeúntes no vestir elementos de valor en la calle</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="nivel-3.-redes-experimentadas" class="level3" data-number="5.2.3">
+<h3 data-number="5.2.3" class="anchored" data-anchor-id="nivel-3.-redes-experimentadas"><span class="header-section-number">5.2.3</span> Nivel 3. Redes experimentadas</h3>
+<p>Se puede decir que es un criminal de carrera, tiene la suficiente experiencia y conocimiento para medir riesgos, planear, influenciar otros para que le sirvan y llevar a cabo acciones criminales más violentas, arriesgadas y en escala, para obtener más ganancia y poder.</p>
+<table class="table">
+<caption>Característica red criminal experimentada</caption>
+<colgroup>
+<col style="width: 25%">
+<col style="width: 74%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Variables de sofisticación</th>
+<th>Características</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Adaptación de tecnología</td>
+<td><ul>
+<li>Posee una infraestructura tecnológica para llevar a cabo los crímenes</li>
+</ul>
+<!-- -->
+<ul>
+<li><p>Utiliza medios de transporte</p></li>
+<li><p>Utiliza tecnologías de la información y la comunicación</p></li>
+<li><p>Tiene acceso a armas de fuego y blindajes</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Conocimiento de la actividad criminal</td>
+<td><ul>
+<li><p>Conoce las fallas y vacíos jurídicos del sistema penal</p></li>
+<li><p>Deslegitima los procedimientos policiales</p></li>
+<li><p>Conoce rutinas y capacidades de los cuerpos de policía</p></li>
+<li><p>Identifica quienes son los grandes líderes de las actividades criminales</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Gestión organizacional</td>
+<td><ul>
+<li><p>Los planes que realiza son complejos, involucran tiempos, movimientos, personas y un grado alto de coordinación y comunicación</p></li>
+<li><p>Maneja estructuras de cobertura en el ámbito local o regional</p></li>
+<li><p>Su estructura criminal tiene niveles jerárquicos y roles claros</p></li>
+<li><p>Diseñan metas y mediciones</p></li>
+<li><p>Existe un proceso de toma de decisiones</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Capacidad para eludir la captura</td>
+<td><ul>
+<li><p>Es reconocido en el mundo criminal y policial</p></li>
+<li><p>La captura en flagrancia es improbable y requiere invesygaciones criminales complejas</p></li>
+<li><p>Jurídicamente es difícil completar un proceso, solamente cuando es delatado</p></li>
+<li><p>Tiene muchos lugares y amigos donde esconderse</p></li>
+<li><p>Sigue dejando rastro de su vinculación a los crímenes</p></li>
+<li><p>Inicia a corromper funcionarios públicos</p></li>
+<li><p>Perdió el miedo por las autoridades, pues ha escapado de ellas</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Adaptación de otras actividades criminales</td>
+<td><ul>
+<li><p>Tiene diferentes actividades criminales asociadas</p></li>
+<li><p>Puede controlar e iniciar a combinar diferentes actividades criminales</p></li>
+<li><p>Es buscado por otros delincuentes para ayudar a la realización de crímenes</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Impacto en la seguridad objetiva</td>
+<td><ul>
+<li><p>Afecta significativamente las estadísticas delincuenciales locales o regionales</p></li>
+<li><p>Está en las prioridades policiales de una localidad o ciudad</p></li>
+<li><p>Aparece en diferentes índices criminales</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Impacto en la seguridad subjetiva</td>
+<td><ul>
+<li><p>Los ciudadanos conocen quién los está afectando</p></li>
+<li><p>Cambia rutinas de los ciudadanos y estigmatizan lugares y horarios</p></li>
+<li><p>Es reconocido su <em>modus operandi</em></p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="nivel-4.-redes-renovadoras" class="level3" data-number="5.2.4">
+<h3 data-number="5.2.4" class="anchored" data-anchor-id="nivel-4.-redes-renovadoras"><span class="header-section-number">5.2.4</span> Nivel 4. Redes renovadoras</h3>
+<p>Por decirlo así es un criminal exitoso, pero quiere más poder y dinero, no se limita con lo que ha logrado, entonces, se le llama renovador porque busca impulsar más su carrera criminal llega hasta crímenes internacionales, más violentos y quiere manejar grandes estructuras del crimen.</p>
+<table class="table">
+<caption>Característica red criminal renovadora</caption>
+<colgroup>
+<col style="width: 24%">
+<col style="width: 75%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Variables de sofisticación</th>
+<th>Características</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Adaptación de tecnología</td>
+<td><ul>
+<li>Acceso total a la tecnología requerida para sus actividades criminales</li>
+</ul>
+<!-- -->
+<ul>
+<li><p>Adquiere tecnología de alto costo</p></li>
+<li><p>Innova tecnológicamente</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Conocimiento de la actividad criminal</td>
+<td><ul>
+<li><p>Manipula el sistema judicial para adaptar sus actividades criminales al marco jurídico existente</p></li>
+<li><p>Su planeación es estratégica, continua y trascendente en el tiempo</p></li>
+<li><p>Conoce el funcionamiento, debilidades y niveles de la Policía y los entes de control nacional e internaciona</p></li>
+<li><p>Innova en la forma de realizar los delitos</p></li>
+<li><p>Conoce cómo funciona un diverso grupo de actividades criminales</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Gestión organizacional</td>
+<td><ul>
+<li><p>Maneja estructuras de influencia a nivel nacional y en algunos casos internacional</p></li>
+<li><p>Muy posiblemente es la cabeza de la organización criminal o está en su nivel jerárquico más alto</p></li>
+<li><p>Existe una estructura organizacional sólida</p></li>
+<li><p>Existen relevos de líderes</p></li>
+<li><p>La estructura de poder, mando y justicia dentro de la organización criminal, está bien definida</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Capacidad para eludir la captura</td>
+<td><ul>
+<li><p>Puede ser considerado invisible en muchos delitos</p></li>
+<li><p>Se sabe que ha participado en delitos, pero no se puede vincular a las investigaciones</p></li>
+<li><p>Mediante arduas labores se de inteligencia e investigación criminal, de largo plazo, puede llegar a su captura</p></li>
+<li><p>Puede cambiar su apariencia y evitar los sistemas de identificación</p></li>
+<li><p>Lleva a la corrupción miembros de la policía y autoridades políticas de alto nivel</p></li>
+<li><p>Se ofrecen recompensas para su captura</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Adaptación de otras actividades criminales</td>
+<td><ul>
+<li><p>No se focaliza en un delito principal, sino ha adaptado diversas actividades criminales que lo mantienen vigente en el mundo criminal</p></li>
+<li><p>Reconocimiento por manejar un amplio portafolio criminal</p></li>
+<li><p>Vincula diferentes delitos para su fin económico</p></li>
+<li><p>La violencia puede estar presente en gran número de actividades criminales</p></li>
+<li><p>Asocia algunas actividades criminales con actividades legales</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Impacto en la seguridad objetiva</td>
+<td><ul>
+<li><p>Responsable de forma directa por la afectación de varios indicadores de seguridad ciudadana</p></li>
+<li><p>Cobertura de delitos a nivel nacional e internacional</p></li>
+<li><p>Puede ser el principal actor criminal en un delito o varios delitos</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Impacto en la seguridad subjetiva</td>
+<td><ul>
+<li><p>Posee zonas de influencia donde existe temor</p></li>
+<li><p>Influye la no denuncia o colaboración a las autoridades</p></li>
+<li><p>Afecta la tasa de victimización ampliamente</p></li>
+<li><p>La percepción de seguridad se ve reducida</p></li>
+<li><p>Afecta negativamente la confianza en la eficacia de las autoridades policiales y del Estado</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="nivel-5.-redes-expertas" class="level3" data-number="5.2.5">
+<h3 data-number="5.2.5" class="anchored" data-anchor-id="nivel-5.-redes-expertas"><span class="header-section-number">5.2.5</span> Nivel 5. Redes expertas</h3>
+<p>Este nivel se enfoca en la búsqueda del poder criminal y el control territorial, y buscan usar la corrupción como elemento criminal. Son buscados y reconocidos en otros países, se generan unas barreras de entrada a las actividades criminales de su indecencia. Al poseer más poder económico y criminal puede sofisticarse más rápido y mejor, y tiene la innovación como uno de sus prioridades.</p>
+<table class="table">
+<caption>Característica red criminal experta</caption>
+<colgroup>
+<col style="width: 27%">
+<col style="width: 72%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Variables de sofisticación</th>
+<th>Características</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Adaptación de tecnología</td>
+<td><ul>
+<li>Financia investigaciones, desarrollos tecnológicos y estudios, para mejorar su producción criminal</li>
+</ul>
+<!-- -->
+<ul>
+<li><p>Realiza experimentos científicos</p></li>
+<li><p>Las autoridades desconocen qué tecnologías está usando</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Conocimiento de la actividad criminal</td>
+<td><ul>
+<li><p>Puede influenciar la creación de normatividad que le favorezca para su actividad criminal</p></li>
+<li><p>Innova en las tipologías criminales</p></li>
+<li><p>Innova en los procesos o rutas de un delito</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Gestión organizacional</td>
+<td><ul>
+<li><p>Maneja varias organizaciones criminales</p></li>
+<li><p>Influye en otras organizaciones y en la forma de cometer delitos</p></li>
+<li><p>Puede manejar un mercado criminal</p></li>
+<li><p>Puede decidir o autorizar donde y cuando se cometen los delitos</p></li>
+<li><p>Influencia entes gubernamentales para sus necesidades</p></li>
+<li><p>Cuenta con un gran número de asesores en diferentes áreas</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Capacidad para eludir la captura</td>
+<td><ul>
+<li><p>Tiene la capacidad para llevar la corrupción a varios servidores públicos en diferentes niveles jerárquicos</p></li>
+<li><p>Cuando es capturado, puede acudir a expertos del derecho para tener una fuerte defensa</p></li>
+<li><p>Se ofrecen grandes recompensas por información que conduzca a su captura</p></li>
+<li><p>La investigación judicial la realizan grupos muy especializados</p></li>
+<li><p>Puede llegar a negociar grandes rebajas de penas por la información que posee</p></li>
+<li><p>Puede que no apareza en bases de datos o investigaciones criminales</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Adaptación de otras actividades criminales</td>
+<td><ul>
+<li><p>Su portafolio criminal es muy amplio va y desde actividades simples hasta muy especializadas</p></li>
+<li><p>La trazabilidad de las actividades criminales es muy compleja</p></li>
+<li><p>Asocia gran número de actividades criminales con actividades legales</p></li>
+</ul></td>
+</tr>
+<tr class="even">
+<td>Impacto en la seguridad objetiva</td>
+<td><ul>
+<li><p>Difícil establecer su afectación real afectación en los índices criminales</p></li>
+<li><p>Diversificación criminal muy amplia</p></li>
+<li><p>Desconocimiento de todos los indicadores que afecta</p></li>
+</ul></td>
+</tr>
+<tr class="odd">
+<td>Impacto en la seguridad subjetiva</td>
+<td><ul>
+<li><p>Es ampliamente conocido por la opinión pública o es completamente desconocido</p></li>
+<li><p>Influencia negativa en la percepción de seguridad ciudadana en el ámbito local, regional, nacional e internacional</p></li>
+<li><p>Influencia para que las personas no denuncien</p></li>
+<li><p>Puede poner en cuestionamiento la institucionalidad</p></li>
+</ul></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="escala-de-violencia-criminal" class="level2" data-number="5.3">
+<h2 data-number="5.3" class="anchored" data-anchor-id="escala-de-violencia-criminal"><span class="header-section-number">5.3</span> Escala de violencia criminal</h2>
+<p>Como se definió al inicio del documento, la violencia es ese daño evolutivo de abuso de poder que se manifiesta en tres formas: física, sociológica y sexual, con el fin de ofrecer una definición para la actuación policial de las formas de violencia; nos basaremos en el “Protocolo sobre violencia física, psicológica y sexual en los centros educativos de secundaria” (Ministerio de Educación Pública, 2012), puesto que abarca desde el nivel más bajo de violencia hasta el más alto, así:</p>
+<ul>
+<li><p>En el caso de la violencia física se reconoce una amplia gama de situaciones tales como: castigos corporales (golpes, azotes, pellizcos, palmadas, hasta lesiones personales o la muerte); permanencia forzada en lugares, encerramientos, inmovilizaciones o “amarramientos”; “ejercicios” físicos, individuales o colectivos, entre otros.</p></li>
+<li><p>La violencia psicológica puede incluir desde chistes, burlas, humillaciones individuales o colectivas, segregación en la participación de actividades, limitación de derechos, palabras hirientes, grafitos, notas anónimas basadas en la discrimi- nación por origen nacional, étnico, preferencia sexual, de género, condición física o mental, amenazas, entre otras.</p></li>
+<li><p>La violencia sexual incluye desde insinuaciones, tocamientos, relaciones sexuales desiguales o de poder, acoso, comentarios o insinuaciones verbales, gestos, corrupción, proxenetismo o violación, utilización de calificaciones con fines sexuales u otras promesas de ventajas económicas o de otra naturaleza, que incluyen la explotación sexual comercial, entre otras.</p></li>
+</ul>
+<section id="severidad-y-frecuencia-de-la-violencia-criminal" class="level3" data-number="5.3.1">
+<h3 data-number="5.3.1" class="anchored" data-anchor-id="severidad-y-frecuencia-de-la-violencia-criminal"><span class="header-section-number">5.3.1</span> Severidad y frecuencia de la violencia criminal</h3>
+<p>Se entiende la frecuencia de la violencia como un patrón repetitivo de maltrato que puede haber sido nunca, alguna vez, varias veces, muchas veces, y la severidad de la violencia que permite establecer la dimensión del daño físico y sicológico (vAldez, híjAr medinA, sAlGAdo de snyder, riverA, AvilA, &amp; rojAs, 2006), que para este caso se establecerá mediante una escala de uno a cinco, en el que uno es la severidad más baja y cinco las más alta. En la matriz de nivel de violencia (ver tabla siguiente) se propone cómo articular estos tres elementos de la violencia (forma, frecuencia y severidad); en el caso de que la frecuencia sea nunca denota que no hay severidad, pues no ha habido un caso de violencia. Asimismo, en cada análisis se debe aumentar la prioridad de acciones en contra de la delincuencia cuando exístan varias víctimas, en niños, niñas y adolescentes o en poblaciones en estado de vulnerabilidad.</p>
+<table class="table">
+<caption>Escala de severidad y frecuencia de violencia criminal Algunas características para la violencia sexual fueron basadas del National Sexual Violence Resource Center (National Sexual Violence Resource Center -NSVRC, 2012)</caption>
+<colgroup>
+<col style="width: 4%">
+<col style="width: 5%">
+<col style="width: 25%">
+<col style="width: 36%">
+<col style="width: 28%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Severidad</th>
+<th>Frecuencia</th>
+<th>Violencia física</th>
+<th>Violencia psicológica</th>
+<th>Violencia sexual</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>1</td>
+<td><p>Muchas veces</p>
+<p>Varias veces</p>
+<p>Alguna vez</p>
+<p>Nunca</p></td>
+<td>Sin marcas pero se usa la violencia</td>
+<td>Amenazas o malos tratos no fuertes o que no afectan su desenvolvimiento social y calidad de vida</td>
+<td>Obligación a ver o escuchar actos sexuales, pero sin ser tocado o agredido</td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td><p>Muchas veces</p>
+<p>Varias veces</p>
+<p>Alguna vez</p>
+<p>Nunca</p></td>
+<td>Marcas no permanentes que no afectan su vida diaria ni el disfrute de sus derechos</td>
+<td>Limitación de derechos mediante acciones hirientes privadamente como degradaciones, malos tratos o humillaciones que afectan la calidad de vida</td>
+<td>Acoso sexual leve sin llegar al contacto físico y afectación del normal desarrollo de su vida</td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td><p>Muchas veces</p>
+<p>Varias veces</p>
+<p>Alguna vez</p>
+<p>Nunca</p></td>
+<td>Secuelas no permanentes pero que necesitan recuperación que le limitan el disfrute de sus derechos por un periodo corto de tiempo</td>
+<td>Limitación de derechos mediante la segregación de actividades, acciones hirientes públicamente como degradaciones, humillaciones que afectan la calidad de vida y su integración en el tejido social</td>
+<td>Acoso sexual con contacto físico por cualquier medio utilizado sea intimidación, indefensión o engaño</td>
+</tr>
+<tr class="even">
+<td>4</td>
+<td><p>Muchas veces</p>
+<p>Varias veces</p>
+<p>Alguna vez</p>
+<p>Nunca</p></td>
+<td>Secuelas permanentes en su integridad física de difícil recuperación, que afectan su vida diaria por un largo plazo</td>
+<td>Problemas de salud mental, inseguridad o temor permanentes que afectan su vida diaria</td>
+<td>Obligación a prácticas sexuales sin consentimiento, usando la intimidación, indefensión o engaño</td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td><p>Muchas veces</p>
+<p>Varias veces</p>
+<p>Alguna vez</p>
+<p>Nunca</p></td>
+<td>Muerte o tortura</td>
+<td>Problemas de salud mental permanentes con asistencia especializada o medicación permanente</td>
+<td>Explotación sexual comercial por obligación o engaño y poniendo en estado de indefensión a la persona</td>
+</tr>
+</tbody>
+</table>
+<p>La tabla anterior muestra desde la perspectiva policial los niveles y formas de violencia para prevenir y atacar, denotando que la PDH busca atacar las causas estructurales que la generan, pero sin descuidar los hechos que están ocurriendo con el fin contrarrestarlos.</p>
+<p>La combinación de la escala sofisticación criminal con la escala de violencia criminal puede llegar a establecer los objetivos y metas más pertinentes de la PDH, se podría establecer quiénes serían los delincuentes y actividades delincuenciales prioritarias; es decir focalizar las actividades policiales, si es mas conveniente prevenir, disuadir, controlar o investigar; pero siempre atacando las causas estructurales para ir disminuyendo la violencia y el delito a largo plazo.</p>
+
+
+</section>
+</section>
+
+</main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    setTimeout(function() {
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+<nav class="page-navigation">
+  <div class="nav-page nav-page-previous">
+      <a href="./cap4.html" class="pagination-link">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">4</span>&nbsp; <span class="chapter-title">Contrarrestar la sofisticación y violencia del crimen organizado</span></span>
+      </a>          
+  </div>
+  <div class="nav-page nav-page-next">
+      <a href="./summary.html" class="pagination-link">
+        <span class="nav-page-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Summary</span></span> <i class="bi bi-arrow-right-short"></i>
+      </a>
+  </div>
+</nav>
+</div> <!-- /content -->
+
+
+
+</body></html>
