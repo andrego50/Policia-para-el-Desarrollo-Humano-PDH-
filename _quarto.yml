@@ -4,7 +4,7 @@ project:
 
 book:
   title: "Guía de implementación de Policía para el Desarrollo Humano (PDH)"
-  author: "Andrés Pérez Coronado"
+  author: "Equipo SUDIR"
   date: "9/3/2022"
   chapters:
     - index.qmd

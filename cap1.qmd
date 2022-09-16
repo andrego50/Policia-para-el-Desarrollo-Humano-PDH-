@@ -1,4 +1,4 @@
-# Seguridad humana para el desarrollo humano
+# Identificar las causas, factores y redes de la violencia y el delito
 
 Desde la concepción de desarrollo humano de brindar condiciones necesarias para que los individuos desarrollen plenamente su potencial, se puede deducir que se deben construir estas condiciones y protegerlas. Entonces, las políticas públicas deben construir unas condiciones de desarrollo humano en materia de educación, salud, vivienda, inclusión social, respeto de los derechos y las demás que la sociedad requiera.
 
@@ -213,7 +213,7 @@ Todo castigo debe ser proporcional a la gravedad del delito. Elena AZAOLA, Marce
 +----------------------------------+--------------------------------------------------------------------------------------------+
 | Factores socio económicos        | -   Pobreza, desigualdad del ingreso y desempleo                                           |
 |                                  |                                                                                            |
-|                                  | -   Delito aspiracional                                                                   |
+|                                  | -   Delito aspiracional                                                                    |
 +----------------------------------+--------------------------------------------------------------------------------------------+
 | Vulnerabilidades institucionales | -   Impunidad, desconfianza generalizada y tasa de no denuncia                             |
 |                                  |                                                                                            |
