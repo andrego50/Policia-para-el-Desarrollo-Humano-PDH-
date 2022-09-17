@@ -1,60 +1,92 @@
 # Identificar las causas, factores y redes de la violencia y el delito
 
-Desde la concepción de desarrollo humano de brindar condiciones necesarias para que los individuos desarrollen plenamente su potencial, se puede deducir que se deben construir estas condiciones y protegerlas. Entonces, las políticas públicas deben construir unas condiciones de desarrollo humano en materia de educación, salud, vivienda, inclusión social, respeto de los derechos y las demás que la sociedad requiera.
+## Microterritorios multicrimen
 
-Es vital entender que las deficiencias estatales en estas políticas públicas son algunas de las causas del delito; así, la seguridad ciudadana puede ser el garante de proteger estas condiciones contrarrestando las causas de la violencia y el delito. Para proteger las condiciones de desarrollo humano del delito, la política de seguridad ciudadana debe ser integral y abarcar todo el aparato del Estado encargado de suplir las falencias que generan violencia y delito, debe generar fuertes consensos políticos y sociales que generen legitimidad de la institucionalidad y participación ciudadana en la creación de soluciones a las problemáticas locales, situación compleja, incluso considerando la relevancia que ha adquirido la seguridad ciudadana en la agenda pública (FAROPPA, 2010).
+```{r}
+library(sf)
+library(ks)
+library(mapview)
+library(dplyr)
+library(readr)
 
-Igualmente, este autor ejemplariza tres áreas de intervenciones simultáneas de política de seguridad ciudadana: la primera es operativa con el fin de contar con un aparato institucional eficiente y sostenible que contemple la policía, la justicia, ministerios, etc., que debe fortalecerse a través de un nuevo paradigma de una nueva percepción ciudadana de la justica. La segunda es un área normativa que dote de herramientas útiles que impulsen la política de seguridad ciudadana según las nuevas necesidades. Y finalmente, un área preventiva que trabaje en los niveles de prevención primaria, secundaria y terciaria, y combatir la exclusión social, la desigualdad social y la debilidad institucional.
+municipios <- st_read("mun_13_02_2018/Municipios.shp")
+municipios <- st_as_sf(municipios, crs = 4326)
+unidad <- municipios[municipios$NOM_DEPART == 'TOLIMA',]
+unidad <- unidad[unidad$NOM_MUNICI %in% c('IBAGUÉ', 'CAJAMARCA',
+                                       'PIEDRAS', 'ALVARADO'),]
+unidad <- st_transform(unidad, 4326) 
 
-Para ejemplarizar lo anterior, el servicio de policía debe prestarse en medio de ciertos condicionantes o limitantes económicos y sociales, en las ciudades de los países de bajo y medio ingreso (UNODC & UN-HABITAT, 2011, p. 12):
+grid <- st_make_grid(unidad, cellsize = 0.01/5)
+grid_kde <- do.call(rbind, st_centroid(grid)) %>% 
+  as_tibble()
 
--   Mantenimiento del orden por estructuras locales informales.
+delitos <- read_csv("~/Downloads/delitos.csv", 
+                    locale = locale(decimal_mark = ","))
 
--   Conflicto sobre los recursos.
+delitos <- delitos[delitos$LONGITUD < -60 & delitos$LATITUD > 4,]
 
--   Provisión ilegal de servicios urbanos básicos.
+unique(delitos$DESCRIPCION_CONDUCTA)
+View(table(delitos$DESCRIPCION_CONDUCTA))
 
--   "Informalización" de espacios y servicios de la ciudad.
+vida_homicidio <- c("ARTÍCULO 103. HOMICIDIO", "ARTÍCULO 104A. FEMINICIDIO")
 
--   Altos niveles de absoluta miseria.
+vida_lesiones <- c("ARTÍCULO 111. LESIONES PERSONALES", "ARTICULO 120 LESIONES CULPOSAS", "ARTÍCULO 119. LESIONES PERSONALES ( CIRCUNSTANCIAS DE AGRAVACIÓN)",
+                   "ARTÍCULO 113. DEFORMIDAD", "ARTÍCULO 116. PÉRDIDA ANATÓMICA O FUNCIONAL DE UN ÓRGANO O MIEMBRO", "ARTÍCULO 229. VIOLENCIA INTRAFAMILIAR")
 
--   Altos niveles de tensión entre ricos y pobres.
+vida_sexual <- c("ARTÍCULO 206. ACTO SEXUAL VIOLENTO", "ARTÍCULO 205. ACCESO CARNAL VIOLENTO", "ARTÍCULO 210. ACCESO CARNAL O ACTO SEXUAL ABUSIVO CON INCAPAZ DE RESISTIR",
+                 "ARTÍCULO 210 A. ACOSO SEXUAL", "ARTÍCULO 207. ACCESO CARNAL O ACTO SEXUAL EN PERSONA PUESTA EN INCAPACIDAD DE RESISTIR", "ARTÍCULO 213. INDUCCIÓN A LA PROSTITUCIÓN",
+                 "ARTÍCULO 214. CONSTREÑIMIENTO A LA PROSTITUCIÓN")
 
--   La policía es blanco del terrorismo y la violencia política.
+vida_sexual_nna <- c("ARTÍCULO 208. ACCESO CARNAL ABUSIVO CON MENOR DE 14 AÑOS", "ARTÍCULO 209. ACTOS SEXUALES CON MENOR DE 14 AÑOS",
+              "ARTÍCULO 218. PORNOGRAFÍA CON MENORES", "ARTÍCULO 219 A. UTILIZACIÓN O FACILITACIÓN DE MEDIOS DE COMUNICACIÓN PARA OFRECER SERVICIOS SEXUALES DE MENORES",
+              "ARTÍCULO 217 A. DEMANDA DE EXPLOTACION SEXUAL COMERCIAL DE PERSONA MENOR DE 18 AÑOS DE EDAD", "ARTÍCULO 213 A. PROXENETISMO CON MENOR DE EDAD",
+              "ARTÍCULO 126. LESIONE CULPOSAS AL FETO", "ARTÍCULO 217. ESTÍMULO A LA PROSTITUCIÓN DE MENORES")
 
-Encontrar las causas de la inseguridad es también encontrar las causas de la violencia y el delito; por ello, se explicará, a continuación, como estas están presentes en América Latina y el Caribe; se plantearán las causas más relevantes del delito y la violencia, así como los factores que inciden y sus posibles consecuencias. Igualmente, se tratarán temas relacionados con las zonas de crisis y situaciones de vulnerabilidad, para proponer un escenario de actuación de la PDH en estas situaciones.
+ingreso_extorsion <- c("ARTÍCULO 244. EXTORSIÓN")
 
-## La violencia y el delito en América Latina y el Caribe
+ingreso_hurto <- c("ARTÍCULO 239. HURTO PERSONAS", "ARTÍCULO 239. HURTO ENTIDADES COMERCIALES", "ARTÍCULO 239. HURTO RESIDENCIAS",
+             "ARTÍCULO 239. HURTO AUTOMOTORES", "ARTÍCULO 239. HURTO PIRATERÍA TERRESTRE", "ARTÍCULO 239. HURTO ENTIDADES FINANCIERAS", 
+             "ARTÍCULO 243. ABIGEATO")
 
-Los informes de desarrollo humano de la región:
+dimension <- ingreso_hurto
+  
+multicrimen_ubano <- subset(delitos, 
+                      delitos$DESCRIPCION_CONDUCTA %in% dimension &
+                        delitos$ZONA == 'URBANA')
+multicrimen_rural <- subset(delitos, 
+                      delitos$DESCRIPCION_CONDUCTA %in% dimension &
+                        delitos$ZONA == 'RURAL')
 
--   Informe sobre Desarrollo Humano para América Central 2009-2010 "Abrir espacios a la seguridad ciudadana y el desarrollo humano".
+coord_urbana <- multicrimen_ubano[,c('LONGITUD','LATITUD')]
+coord_rural  <- multicrimen_rural[,c('LONGITUD','LATITUD')]
 
--   Caribbean Human Development Report 2012 "Human development and the shift to better citizen security".
+kd_urbana <- kde(coord_urbana, Hpi(coord_urbana, pilot="dscalar"), eval.points = grid_kde)
+kd_rural <- kde(coord_rural, Hpi(coord_rural, pilot="dscalar"), eval.points = grid_kde)
 
--   Informe Regional de Desarrollo Humano 2013-2014 "Seguridad ciudadana con rostro humano: diagnóstico y propuestas para América Latina".
+kde_urbana <- data.frame(x = kd_urbana[["eval.points"]][[1]], 
+                  y = kd_urbana[["eval.points"]][[2]],
+                  densidad = kd_urbana[["estimate"]])
 
-Realizados por el Programa de Naciones Unidas para el Desarrollo (PNUD) ofrecen un amplio y profundo análisis de las implicaciones en el desarrollo humano de ALC ocasionadas por la violencia y el delito, por lo tanto, se examinarán los retos en términos de PDH que deben enfrentar en pro de atacar las causas y prevenir los efectos nocivos a la seguridad ciudadana.
+kde_rural <- data.frame(x = kd_rural[["eval.points"]][[1]], 
+                  y = kd_rural[["eval.points"]][[2]],
+                  densidad = kd_rural[["estimate"]])
 
-### Definición de la violencia y el delito en el marco del desarrollo humano
+percentil_urbana <- quantile(kde_urbana$densidad, probs = 0.999)[[1]]
+percentil_rural <- quantile(kde_rural$densidad, probs = 0.999)[[1]]
 
-El informe de desarrollo humano de América Central, 2009-2010 (PNUD, 2009), indica que los delitos son conductas censurables por naturaleza y no apenas en virtud de convenciones sociales, estos afectan de modo injusto los derechos fundamentales de sus víctimas --la vida, la integridad personal y el patrimonio- y que han sido tipificadas y penalizadas en la legislación. Abarca, en principio, todos los delitos contra la persona y contra el patrimonio, pero con énfasis y nivel de detalle en las circunstancias de cada delito: la gravedad del daño causado a la víctima, la alarma que produce o el impacto aparente del acto sobre la percepción general de la seguridad, la frecuencia relativa de ese delito, la disponibilidad y confiabilidad de las estadísticas, y demás información pertinente sobre el ilícito en mención, al igual, si para su consumación media hubo violencia o no, contra la víctima (PNUD, 2009), impactando directamente las posibilidades del desarrollo humano, puesto que aumenta el temor en su vida diaria y centra su atención en la amenaza y no en potenciar sus capacidades.
+microterritorio_urbano <- kde_urbana[kde_urbana$densidad > percentil_urbana,]
+microterritorio_rural <- kde_rural[kde_rural$densidad > percentil_rural,]
 
-El termino violencia será entendido como un comportamiento que amenaza en causar o causa un severo daño a otros; violencia y agresión son usados frecuentemente como sinónimos, con la violencia se genera un grado más de desmesura, (GUERRA, 2005, p. 6), la autora ofrece unas características de la violencia:
+microterritorio_urbano <- st_as_sf(microterritorio_urbano,
+                                  coords = c('x','y'), 
+                                  crs = 4326)
+microterritorio_rural <- st_as_sf(microterritorio_rural,
+                             coords = c('x','y'), 
+                             crs = 4326)
 
-Se usan algunas distinciones de la violencia como hostil que busca infringir daño o lesión, la violencia instrumental que no busca hacer daño per se, sino que tiene objetivos como robos, sicariatos o terrorismo; y también está la violencia defensiva y ofensiva.
-
-Se presentan cuatro clasificaciones (tolAn& GuerrA (1994) citado en (GuerrA, 2005)), que en términos policiales se podrían entender:
-
--   Violencia situacional: está relacionada con el contexto por ejemplo cuando se hace bajo los efectos del alcohol, la presencia de armas o cuando hay una manifestación pública por el conflicto social.
-
--   Violencia en las relaciones: se desarrolla en el contexto de las relaciones familiares como pareja, padres o parientes cercanos y amigos.
-
--   Violencia predatoria: se refiere a los actos perpetrados intencionalmente para obtener alguna ganancia como atracos y guerras de pandillas.
-
--   Violencia psicopatológica: este es un tipo raro de violencia, pero casi siempre con consecuencias mortales. Las investigaciones sugieren que tal comportamiento está relacionado con el desarrollo del cerebro y un trauma psicológico severo, como el caso Garavito, asesino en serie de niños en Colombia.
-
-El delito definido como el daño en el desarrollo evolutivo que se produce por un abuso de poder y que puede realizarse de tres formas: física, psicológica y sexual (CAnelo, 2010), que puede ir acompañado de violencia. La policía tiene como filosofía la exclusión de la violencia en las relaciones humanas, al proceder bajo sana doctrina, obrando al margen de la intimidación y servicio de los principios del derecho (MOLINA, 2008). Posteriormente, se establecerá una escala de violencia y una de sofisticación del crimen desde la perspectiva policial para proponer los indicadores de la PDH.
+mapview(list(microterritorio_urbano, microterritorio_rural),
+        legend = F, color = 'blue') 
+```
 
 ## Causas estructurales de la violencia y el delito
 
